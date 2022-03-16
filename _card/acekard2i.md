@@ -5,8 +5,8 @@ description:
 categories:
 - acekard
 sdhc: true
-dsi: Up to 1.4.3
-3ds: Up to ?
+dsi: Up to 1.4.4
+3ds: Up to 4.3.0
 downloads:
   AKAIO_1.9.0.zip:
     url: https://flashcard-archive.ds-homebrew.com/acekard.com/AceKard_2i/AKAIO_1.9.0.zip
