@@ -1,0 +1,196 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}" dir="ltr">
+{% include head.html%}
+
+<body>
+	<div class="content">
+		{% include nav.html %}
+
+		<main>
+			<a class="back-link" href=".">
+				<span class="btn btn-primary btn-back i18n innerHTML-back">&lt; Back</span>
+			</a>
+
+			{% include modal.html %}
+
+			<div class="container-fluid">
+				<div class="row pt-5">
+					<div class="col-12 mw-50 main-content mx-auto">
+						<div class="row">
+							<div class="col-md-4 mb-3">
+								<div class="card">
+									{% if page.website %}<a href="{{ page.website }}">{% elsif page.source %}<a href="{{ page.source }}">{% endif %}
+										{% if page.images.size > 0 %}
+											<div class="card-header">
+												<img class="mx-auto d-block mw-100" src="{{ page.images[0].url }}" alt="{{ page.images[0].description | default: page.title | escape }}">
+											</div>
+										{% endif %}
+										<div class="card-body" dir="ltr">
+											<div>
+												<h4 class="card-title text-center {% if page.creator %}mb-0{% endif %}">{{ page.title }}</h4>
+												{% if page.creator %}
+													<small class="d-block text-center mb-3">{{ page.creator }}</small>
+												{% endif %}
+												<p class="card-text">{{ page.description }}</p>
+											</div>
+										</div>
+									{% if page.website %}</a>{% elsif page.source %}</a>{% endif %}
+									<div class="card-footer">
+										<small>
+											<dl>
+												{% if page.categories.size > 0 %}
+												<div>
+													<dt class="i18n innerHTML-categories">Categories:</dt>
+													<dd>
+														{%- for category in page.categories -%}
+															{%- assign cat = category | prepend: "cat-" -%}
+															<a href="/{{ page.collection }}/category/{{ category }}" class="i18n innerHTML-cat-{{ category }}">{{ site.data.i18n.en-US[cat] | default: category }}</a>{% if forloop.last == false %},{% endif %}
+														{% endfor %}
+													</dd>
+												</div>
+												{% endif %}
+												<div>
+													<dt class="i18n innerHTML-sdhc">SDHC:</dt>
+													{% if page.sdhc %}
+														<dd class="i18n innerHTML-supported">Supported</dd>
+													{% else %}
+														<dd class="i18n innerHTML-unsupported">Unsupported</dd>
+													{% endif %}
+												</div>
+												<div>
+													<dt class="i18n innerHTML-dsi-compatible">DSi compatible:</dt>
+													{% if page.dsi == true %}
+														<dd class="i18n innerHTML-supported">Yes</dd>
+													{% elsif page.dsi %}
+														<dd class="i18n innerHTML-supported">{{ page.dsi }}</dd>
+													{% else %}
+														<dd class="i18n innerHTML-unsupported">No</dd>
+													{% endif %}
+												</div>
+												<div>
+													<dt class="i18n innerHTML-dsi-compatible">3DS compatible:</dt>
+													{% if page["3ds"] == true %}
+														<dd class="i18n innerHTML-supported">Yes</dd>
+													{% elsif page["3ds"] %}
+														<dd class="i18n innerHTML-supported">{{ page["3ds"] }}</dd>
+													{% else %}
+														<dd class="i18n innerHTML-unsupported">No</dd>
+													{% endif %}
+												</div>
+											</dl>
+										</small>
+									</div>
+								</div>
+								<div class="text-center pt-3">
+									{% if page.source %}
+										<a class="btn btn-primary m-1 i18n innerHTML-source" href="{{ page.source }}">Source</a>
+									{% endif %}
+									{% if page.website %}
+										<a class="btn btn-primary m-1 i18n innerHTML-website" href="{{ page.website }}">Website</a>
+									{% endif %}
+									{% if page.wiki %}
+										<a class="btn btn-primary m-1 i18n innerHTML-wiki" href="{{ page.wiki }}">Wiki</a>
+									{% endif %}
+								</div>
+							</div>
+							<div class="col-md-8">
+								<div class="row">
+									<div class="col-12">
+										{% if page.downloads %}
+											<h2 class="i18n innerHTML-downloads">Downloads</h2>
+											{% for item in page.downloads %}
+												{% assign itemQR = nil %}
+												{% for qr in page.qr %}
+													{% if item[0] == qr[0] %}
+														{% assign itemQR = qr %}
+														{% break %}
+													{% endif %}
+												{% endfor %}
+												<span class="text-nowrap">
+													<a class="btn btn-primary m-1 {% if itemQR %}btn-with-qr{% endif %} i18n innerHTML-download-name" {% if item[1].size_str %}title="Size: {{ item[1].size_str }}"{% endif %} href="{{ item[1].url }}" data-name="{{ item[0] }}">Download {{ item[0] }}</a>
+													{% if itemQR %}
+														<a class="qr-link btn btn-primary btn-qr i18n ariaLabel-show-qr-for" href="{{ itemQR[1] }}" target="_blank" role="button" data-bs-toggle="modal" data-bs-target="#modal" data-name="{{ itemQR[0] }}" data-path="{{ itemQR[1] }}" aria-label="Show QR Code for {{ item[0] }}">
+															<svg class="icon icon-qr_code" aria-hidden="true"><path d="M 0,6.2346667 H 6.2346667 V 0 H 0 Z M 1.568,1.568 H 4.6666667 V 4.6666667 H 1.568 Z M 0,14 H 6.2346667 V 7.7653332 H 0 Z M 1.568,9.3333333 H 4.6666667 V 12.432 H 1.568 Z M 7.7653333,0 V 6.2346667 H 14 V 0 Z M 12.432,4.6666667 H 9.3333333 V 1.568 H 12.432 Z m 0,7.7653333 H 14 V 14 H 12.432 Z M 7.7653333,7.7653332 h 1.568 v 1.5680001 h -1.568 z m 1.568,1.5680001 H 10.901333 V 10.901333 H 9.3333333 Z m -1.568,1.5679997 h 1.568 v 1.531445 h -1.568 z m 1.568,1.530667 H 10.901333 V 14 H 9.3333333 Z m 1.5679997,-1.530667 h 1.531445 v 1.531445 h -1.531445 z m 0,-3.1359998 h 1.531445 V 9.3333333 H 10.901333 Z M 12.432,9.3333333 H 14 v 1.5679997 h -1.568 z"></path></svg>
+														</a>
+													{% endif %}
+												</span>
+											{% endfor %}
+											
+											{% if page.version and page.downloads %}
+												<br>
+												<small>
+													<span class="i18n innerHTML-version">Version: </span>{% if page.download_page %}<a href="{{ page.download_page }}">{% endif %}{{ page.version }}{% if page.download_page %}</a>{% endif %}
+													{% if page.update_notes %}
+														<button class="btn btn-outline-secondary btn-sm i18n innerHTML-update-notes" data-bs-toggle="modal" data-bs-target="#modal" data-name="{% if page.version_title %}{{ page.version_title }}{% else %}{{ page.version }}{% endif %}" data-content="{{ page.update_notes | escape }}">Update notes</button>
+													{% elsif page.version_title %}
+													- {{ page.version_title }}
+													{% endif %}
+													<br>
+													{% if page.updated != "---" %}
+														<span class="i18n innerHTML-last-updated">Last updated: </span><time datetime="{{ page.updated }}" title="{{ page.prerelease.updated | date: '%Y-%m-%d at %H:%M' }}">{{ page.updated | date: "%Y-%m-%d at %H:%M" }}</time>
+													{% endif %}
+												</small>
+											{% endif %}
+										</div>
+									</div>
+								{% endif %}
+								{% if content.size > 1 %}
+									<div class="row mt-3">
+										<div class="col-12">
+											<h2 class="i18n innerHTML-description">Description</h2>
+											<div dir="ltr">
+												{{ content }}
+											</div>
+										</div>
+									</div>
+								{% endif %}
+								{% if page.images.size > 0 %}
+									<div class="row mt-3">
+										<div class="col-12">
+											<h2 class="i18n innerHTML-images">Images</h2>
+											<div id="imageCarousel" class="carousel carousel-dark-when-light slide mb-3" data-bs-ride="carousel">
+												<ol class="carousel-indicators">
+													{% for img in page.images %}
+														<li data-bs-target="#imageCarousel" data-bs-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %}active{% endif %}"></li>
+													{% endfor %}
+												</ol>
+												<div class="carousel-inner">
+													{% for img in page.images %}
+														<div class="carousel-item mt-2 mb-2 {% if forloop.first %}active{% endif %}">
+															<img src="{{ img.url }}" class="d-block mx-auto" alt="{{ img.description }}">
+															<div class="carousel-caption d-none d-md-block">
+																<h5 class="carousel-label">{{ img.description }}</h5>
+															</div>
+														</div>
+													{% endfor %}
+												</div>
+												<a class="carousel-control-prev" href="#imageCarousel" role="button" data-bs-slide="prev">
+													<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+													<span class="visually-hidden i18n innerHTML-previous">Previous</span>
+												</a>
+												<a class="carousel-control-next" href="#imageCarousel" role="button" data-bs-slide="next">
+													<span class="carousel-control-next-icon" aria-hidden="true"></span>
+													<span class="visually-hidden i18n innerHTML-next">Next</span>
+												</a>
+											</div>
+										</div>
+									</div>
+								{% endif %}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+	</div>
+
+	{% include footer.html %}
+
+	{% include common-js.html %}
+	<script src="/assets/js/modal.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+# theme       : jekyll-theme-slate
+title       : "Flashcard Archive"
+description : "An archive of all the firmwares for Nintendo DS flashcards"
+repo        : "DS-Homebrew/flashcard-archive"
+color       : "#80158A"
+image       : "https://avatars.githubusercontent.com/u/46971470?s=400&u=8e42e29aa9df11e990436648b66906c16b3f0ed7&v=4"
+
+sass:
+  sass_dir: _sass
+
+defaults:
+  - scope:
+      path: "**/*.md"
+    values:
+      layout: app
+
+collections:
+  card:
+    output: true

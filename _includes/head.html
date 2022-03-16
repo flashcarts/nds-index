@@ -1,0 +1,49 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title {% unless page.layout == "app" %}class="i18n innerHTML-title-{{ page.title | downcase | replace: " ", "-" }}"{% endunless %}>
+		{% if site.title != page.title %}
+			{{ page.title }} |
+		{% endif %}
+		{{ site.title }}
+	</title>
+
+	<link id="bootstrap-stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+	<link id="theme-css" rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css">
+	<script src="/assets/js/theme.js"></script>
+
+	{% if page.color_bg or page.color %}
+		{% assign accent = page.color_bg | default: page.color %}
+		<style>
+			.bg-primary,
+			.btn-primary, .btn-primary:focus,
+			.btn-outline-primary:hover, .btn-outline-primary:active,
+			.text-primary,
+			.dropdown-menu, .dropdown .hover-content {
+				background-color: {{ accent }}!important;
+			}
+
+
+			.btn-primary, .btn-primary:focus,
+			.btn-outline-primary,
+			.btn-outline-primary:hover, .btn-outline-primary:active {
+				border-color: {{ accent }}!important;
+			}
+
+
+
+			.btn-outline-primary {
+				color: {{ accent }}!important;
+			}
+		</style>
+	{% endif %}
+
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed | {{ site.title }}" href="/index.rss">
+
+	{% include favicon.html %}
+	{% include seo.html %}
+
+	<script src="/assets/js/i18n.js"></script>
+</head>

@@ -1,0 +1,10 @@
+*.DS_Store
+
+*_site
+*.sass-cache
+*.jekyll-cache
+*.jekyll-metadata
+*Gemfile.lock
+
+source/temp
+source/temp_ra

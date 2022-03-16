@@ -1,0 +1,475 @@
+// For the bottom aligned footer
+html, body {
+	height: 100%;
+}
+body {
+	display: flex;
+	flex-direction: column;
+	font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+footer {
+	flex-shrink: 0;
+	padding-top: 20px;
+}
+
+body {
+	color: $main-color;
+	background-color: $main-bg;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: $header-color;
+}
+
+h2 {
+	border-bottom: 1px solid $borders;
+}
+
+blockquote {
+	color: $blockquote-color;
+	margin-bottom: 20px;
+	padding: 0 0 0 20px;
+	border-left: 3px solid $borders;
+}
+
+code, tt {
+	color: $code-color;
+	background-color: $code-bg;
+	padding: 3px;
+	border-radius: 0.25rem;
+	white-space: nowrap;
+}
+
+li > p {
+	margin-bottom: 0;
+}
+
+// .a is for making other things look like <a>s
+a, .a {
+	text-decoration: none;
+	text-decoration-thickness: 1px;
+	color: $a-color;
+	cursor: pointer;
+}
+a:hover, .a:hover {
+	text-decoration: underline;
+}
+
+a.clean {
+	text-decoration: none;
+}
+
+footer a {
+	color: inherit;
+	font-weight: bold;
+	text-decoration: underline;
+}
+footer a:hover {
+	color: inherit;
+	opacity: 50%;
+}
+
+small {
+	font-size: 75%;
+	color: $small-color;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+dt, dd {
+	display: inline-block;
+}
+
+dl, dd:not(:last-of-type) {
+	margin-bottom: 0;
+}
+
+.content {
+	flex: 1 0 auto;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+	padding-left: 0.75rem;
+	padding-right: 0.75rem;
+}
+
+.btn, .btn a {
+	text-decoration: none;
+}
+
+// Override bootstraps primary color
+.bg-primary {
+	background-color: $primary!important;
+}
+.btn-primary, .btn-primary:focus {
+	color: $nav-link-color;
+	background-color: $primary!important;
+	border-color: $primary!important;
+}
+.btn-primary:hover, .btn-primary:active {
+	color: $nav-link-color!important;
+	opacity: 0.8;
+}
+.btn-outline-primary {
+	color: $primary;
+	border-color: $primary;
+}
+.btn-outline-primary:hover, .btn-outline-primary:active {
+	background-color: $primary!important;
+	border-color: $primary!important;
+}
+.text-primary {
+	background-color: $primary!important;
+}
+
+// Override the secondary text color
+.btn-outline-secondary {
+	color: $main-color;
+}
+
+.btn-dark:hover, .btn-dark:active {
+	opacity: 0.8;
+}
+
+.btn:focus {
+	box-shadow: none;
+}
+
+.alert-secondary {
+	color: $code-color;
+	background-color: $code-bg;
+	border-color: $code-bg;
+}
+
+// Override the dark text too
+.text-dark {
+	color: $dark!important;
+}
+
+// And the light bg
+.bg-light {
+	background-color: $light!important;
+	border-color: $light-border!important;
+}
+
+.bg-light::placeholder {
+	color: $light-placeholder;
+}
+
+// No underline on navbar links
+.navbar a {
+	text-decoration: none;
+}
+
+// Dim navbar-brand on hover
+.navbar a.navbar-brand:hover {
+	opacity: 0.5;
+}
+
+// Override nav-link color
+.navbar .nav-link {
+	color: $nav-link-color!important;
+}
+.navbar .nav-link:hover {
+	color: $nav-link-color-hover!important;
+}
+
+// And the active nav-link color
+.navbar .nav-link.active {
+	color: $nav-link-color-active!important;
+}
+.navbar .nav-link.active:hover {
+	color: $nav-link-color-hover!important;
+}
+
+// Fixes for navbar on older browsers
+html[dir=ltr] .navbar-toggler {
+	position: absolute;
+	right: 0.75rem;
+	top: 0.5rem;
+}
+
+html[dir=rtl] .navbar-toggler {
+	position: absolute;
+	left: 0.75rem;
+	top: 0.5rem;
+}
+
+.navbar {
+	min-height: 3.5rem;
+}
+
+// Make dropdowns site-colored and animated
+.dropdown-menu, .dropdown .hover-content {
+	background-color: $primary;
+	-webkit-transition: 300ms ease;
+	transition: 300ms ease;
+	display: block;
+	height: 0;
+	padding: 0;
+	overflow: hidden;
+	visibility: hidden;
+	line-height: 0;
+	margin: 0;
+}
+.dropdown .hover-content {
+	display: none;
+}
+.dropdown-menu.show, .dropdown:hover .hover-content {
+	display: block;
+	height: inherit;
+	line-height: inherit;
+	padding: 0.5rem 0;
+	visibility: visible;
+}
+
+.navbar-toggler:hover+.navbar-collapse.hover-content, .navbar-collapse.hover-content:hover {
+	display: block;
+}
+
+.dropdown-item {
+	color: $nav-link-color;
+}
+.dropdown-item.active {
+	background-color: unset;
+}
+.dropdown-item:hover, .dropdown-item:active, .dropdown-item:focus {
+	background-color: $dropdown-item-bg-hover;
+	color: $nav-link-color-hover;
+}
+
+// Make images smaller
+.img-small {
+	max-width: 250px;
+	max-height: 250px;
+}
+
+
+html:not([dir=rtl]) {
+	.btn-back {
+		position: absolute;
+		left: 5px;
+		margin: 5px 0;
+		font-size: 8pt;
+		padding: 5px;
+		z-index: 10;
+	}
+
+	.btn-with-qr {
+		border-top-right-radius: 0;
+		border-bottom-right-radius: 0;
+		margin-right: 0!important;
+		padding-right: 0.25rem;
+	}
+	
+	.btn-qr {
+		border-top-left-radius: 0;
+		border-bottom-left-radius: 0;
+		margin-left: -5px!important;
+		padding-left: 0.5rem;
+		padding-right: 0.5rem;
+	}
+
+	.end-3 {
+		right: 1rem;
+	}
+}
+
+html[dir=rtl] {
+	.btn-back {
+		position: absolute;
+		right: 5px;
+		margin: 5px 0;
+		font-size: 8pt;
+		padding: 5px;
+		z-index: 10;
+	}
+
+	.btn-with-qr {
+		border-top-left-radius: 0;
+		border-bottom-left-radius: 0;
+		margin-left: 0!important;
+		padding-left: 0.25rem;
+	}
+	
+	.btn-qr {
+		border-top-right-radius: 0;
+		border-bottom-right-radius: 0;
+		margin-right: -5px!important;
+		padding-right: 0.5rem;
+		padding-left: 0.5rem;
+	}
+
+	.end-3 {
+		left: 1rem;
+	}
+}
+
+// Input box
+.input-group-text {
+	color: $light-placeholder;
+	background-color: $light;
+	border-color: $light-border;
+}
+.form-control, .form-control:focus, .form-control::placeholder {
+	color: $light-placeholder;
+	background-color: $light;
+	border-color: $light-border;
+	display: inline;
+	min-width: 50%!important;
+}
+
+// Cards
+.card {
+	background-color: inherit;
+}
+
+.card a {
+	text-decoration: none;
+	font-weight: normal;
+	color: inherit;
+}
+
+.card a:hover {
+	opacity: 50%;
+}
+
+.card-footer a {
+	text-decoration: underline;
+}
+
+.card-image {
+	max-height: 128px;
+}
+
+.card-image-header {
+	height: 145px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.card {
+	background-color: $card-background;
+}
+
+.card-header, .card-footer {
+	background-color: $card-edges-background;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.card-qr {
+	color: $small-color;
+}
+
+.card-qr:hover {
+	opacity: 75%;
+}
+
+.qr-image {
+	border-radius: 1rem;
+}
+
+.modal-content {
+	background-color: $main-bg;
+}
+.modal-header {
+	border-bottom: $modal-borders;
+}
+.modal-footer {
+	border-top: $modal-borders;
+}
+
+.carousel-label {
+	background-color: $carousel-caption-bg;
+	border-radius: 10px;
+}
+
+// Select
+.form-select-dark {
+	background-color: #444;
+	border: 1px solid #333;
+}
+
+// SVG
+.icon {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	stroke-width: 0;
+	stroke: currentColor;
+	fill: currentColor;
+}
+
+.icon-qr_code {
+	font-size: 14px;
+	margin-top: -3px;
+}
+
+
+@media only screen and (min-width: 576px) {
+	// Seems to be broken in RTL in bootstrap v5.0-beta1, so override here
+	html[dir=rtl] .dropdown-menu-sm-end {
+		--bs-position: end;
+		right: auto;
+		left: 0;
+	}
+}
+
+@media only screen and (min-width: 1024px) {
+	.main-content {
+		max-width: 1024px;
+	}
+}
+@media only screen and (min-width: 1200px) {
+	.main-content {
+		max-width: 1200px;
+	}
+}
+@media only screen and (min-width: 1600px) {
+	.main-content {
+		max-width: 75%;
+	}
+}
+
+@media only screen and (max-width: 757px) {
+	.dropdown-menu {
+		border: 0;
+	}
+	.dropdown-item {
+		font-weight: bold;
+	}
+	.dropdown-item:hover {
+		background-color: inherit;
+	}
+}
+
+@media only screen and (min-width: 576px) {
+	// Fix nav on old browsers that don't support flex
+	.navbar-expand-sm .navbar-collapse {
+		display: block;
+	}
+
+	nav {
+		.navbar-brand, .navbar-toggler, .navbar-collapse, .navbar-nav, li.nav-item, .dropdown {
+			display: inline-block;
+		}
+	}
+
+	html[dir=ltr] .lang-select-dropdown, .navbar-toggler {
+		position: absolute;
+		right: 0.75rem;
+	}
+
+	html[dir=rtl] .lang-select-dropdown, .navbar-toggler {
+		position: absolute;
+		left: 0.75rem;
+	}
+}
