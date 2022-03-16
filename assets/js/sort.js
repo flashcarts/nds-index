@@ -1,7 +1,7 @@
 if(!localStorage.sortDirection)
-	localStorage.sortDirection = 1;
+	localStorage.sortDirection = 0;
 if(!localStorage.sortProp)
-	localStorage.sortProp = "updated";
+	localStorage.sortProp = "title";
 
 document.getElementById("sort-" + localStorage.sortProp).classList.add("btn-secondary");
 document.getElementById("sort-" + localStorage.sortProp).classList.remove("btn-outline-secondary");

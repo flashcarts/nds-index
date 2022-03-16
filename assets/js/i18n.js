@@ -140,7 +140,6 @@ function setLang(lang) {
 		delete localStorage.language;
 
 	loadLang(false);
-	updateDates();
 
 	if(prevLang == "ic-IC")
 		location.reload();
