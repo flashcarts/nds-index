@@ -16,7 +16,9 @@ downloads:
   YSMenu:
     url: https://gbatemp.net/threads/retrogamefan-updates-releases.267243/
 images:
-- url: /assets/images/cards/dsone-sdhc/front.jpeg
+- url: /assets/images/cards/dsone-sdhc/front.gif
+- url: /assets/images/cards/dsone-sdhc/front-aliexpress.jpeg
+  description: AliExpress clone (no sticker)
 - url: /assets/images/cards/dsone-sdhc/back.jpeg
 - url: /assets/images/cards/dsone-sdhc/pcb-back.jpeg
 - url: /assets/images/cards/dsone-sdhc/pcb-front.jpeg
