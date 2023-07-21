@@ -8,6 +8,11 @@ image       : "/assets/images/favicon/favicon-196x196.png"
 sass:
   sass_dir: _sass
 
+exclude:
+  - Gemfile*
+  - vendor
+  - LICENSE*
+
 defaults:
   - scope:
       path: "**/*.md"
