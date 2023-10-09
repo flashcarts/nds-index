@@ -13,6 +13,11 @@ exclude:
   - vendor
   - LICENSE*
 
+analytics:
+  gtag:
+    id:
+    anonymize_ip: # false (default)
+
 defaults:
   - scope:
       path: "**/*.md"
