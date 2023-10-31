@@ -1,7 +1,7 @@
 ---
 layout: cards
-title: Flashcards - DSTT
-category: dstt
+title: Flashcards - Ace3DS
+category: ace3ds
 system: card
 ---
 

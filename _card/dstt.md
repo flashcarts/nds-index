@@ -10,7 +10,7 @@ dsi: false
 3ds: false
 downloads:
   YSMenu:
-    url: https://gbatemp.net/threads/retrogamefan-updates-releases.267243/
+    url: https://gbatemp.net/threads/267243/
 images:
 - url: /assets/images/cards/dstt/front.jpeg
 - url: /assets/images/cards/dstt/back.jpeg

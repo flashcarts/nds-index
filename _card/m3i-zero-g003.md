@@ -5,7 +5,7 @@ description:
 categories:
 - m3
 sdhc: true
-dsi: Up to 1.4.5
+dsi: Latest firmware
 3ds: Up to ?
 downloads:
   M3DS_Sakura_1.49b.zip:
