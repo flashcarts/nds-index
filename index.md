@@ -9,6 +9,4 @@ This site aims to be a visual guide to the [flashcard-archive](https://flashcard
 
 Each cart has been categorised by the manufacturer and any common kernels which it may use.
 
-This site is temporarily being hosted on flashcarts.deletecat.com. 
-
 [Click here to go to the flashcard list](/card/).
