@@ -15,8 +15,8 @@ downloads:
   AOS_Ace3DSPlus.zip:
     url: https://github.com/flashcarts/AOS/releases/download/v2.13-3E/AOS_Ace3DSPlus.zip
 images:
-- url: /assets/images/cards/ace3ds-x/front.jpeg
-- url: /assets/images/cards/ace3ds-x/back.jpeg
+- url: /assets/images/cards/ace3ds-x/Front.jpeg
+- url: /assets/images/cards/ace3ds-x/Back.jpeg
 website: http://ace3ds.com
 ---
 
