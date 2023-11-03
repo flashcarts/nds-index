@@ -11,10 +11,8 @@ dsi: false
 downloads:
   SuperCard_DSONE_SDHC_EOS_sp6_20121206.zip:
     url: https://flashcard-archive.ds-homebrew.com/SuperCard/DSONE_SDHC_DSONEi/SuperCard_DSONE_SDHC_EOS_sp6_20121206.zip
-  SuperCard_DSONEi_FWUpdate_1.4.5.nds:
-    url: https://flashcard-archive.ds-homebrew.com/SuperCard/DSONE_SDHC_DSONEi/SuperCard_DSONEi_FWUpdate_1.4.5.nds
   YSMenu:
-    url: https://gbatemp.net/threads/retrogamefan-updates-releases.267243/
+    url: https://gbatemp.net/threads/267243/
 images:
 - url: /assets/images/cards/dsone-sdhc/front.gif
 - url: /assets/images/cards/dsone-sdhc/front-aliexpress.jpeg
@@ -26,4 +24,4 @@ website: http://eng.supercard.sc/manual/dsonei/
 ---
 Clones are common on AliExpress and eBay at the moment, howevery they have a high dead on arrival rate.
 
-Using YSMenu is only recommended if your card has a PSRAM error and cannot use EOS.
+Using YSMenu is only recommended if your card has a PSRAM error and cannot use EOS. To check if your DSOne SDHC has a faulty PSRAM, hold L and R on boot to run the DSOne's self-test. The self-test feature was removed on the DSOnei.

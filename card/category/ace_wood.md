@@ -7,4 +7,4 @@ system: card
 
 # {{ page.title }}
 
-A full list of Ace Wood supported flashcarts can be found on the flashcard-archive's GitHub page: <https://github.com/DS-Homebrew/flashcard-archive>
+A full list of Ace Wood supported flashcards can be found on the flashcard-archive's GitHub page: <https://github.com/DS-Homebrew/flashcard-archive>

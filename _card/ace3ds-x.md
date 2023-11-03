@@ -20,11 +20,13 @@ images:
 website: http://ace3ds.com
 ---
 
-This flashcart has two modes. DS mode and "3DS" mode. DS mode will boot into the regular Ace3DS+ kernel.
+This flashcard has two modes. DS mode and "3DS" mode. DS mode will boot into the regular Ace3DS+ kernel.
 The 3DS mode is slightly different. It doesn't play 3DS games as the name might imply. It is simply an ntrboot mode.
 ntrboot can be used to hack your 3DS or to recover from bricks. You can read more about it at [3ds.hacks.guide](https://3ds.hacks.guide/ntrboot).
 
-When the switch is in the top position, it is in ntrboot mode. It is **normal** for the flashcart to not appear on the homescreen.
+When the switch is in the top position, it is in ntrboot mode. It is **normal** for the flashcard to not appear on the homescreen.
 When the switch is in the bottom position, it is in DS mode. You should see `SpongeBob's Atlantis SquarePantis` as the icon.
 
-Keep in mind that this flashcart **will not work** in either mode without a microSD card inserted.
+Keep in mind that this flashcard **will not work** in either mode without a microSD card inserted.
+
+This flashcard will use Ace Wood 1.62, not to be confused with R4 Wood 1.62. Ace Wood 1.62 is based on the open source R4 Wood 1.25, it adds some patches on top of it to support more modern games. However, it is missing some patches for newer games and some games (like Warioware D.I.Y) may refuse to launch.

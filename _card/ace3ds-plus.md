@@ -18,3 +18,8 @@ images:
 website: http://ace3ds.com
 ---
 
+The Ace3DS+ is based on the R4iLS flashcards. This means that it will not work without a microSD card inserted into the card.
+
+This flashcard will use Ace Wood 1.62, not to be confused with R4 Wood 1.62. Ace Wood 1.62 is based on the open source R4 Wood 1.25, it adds some patches on top of it to support more modern games. However, it is missing some patches for newer games and some titles (like Warioware D.I.Y) may refuse to launch.
+
+Clones of the Ace3DS+ are quite common, though not all of them look the same. Ace3DS+ clones cannot be flashed for ntrboot.

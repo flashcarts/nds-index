@@ -18,3 +18,5 @@ images:
 - url: /assets/images/cards/dstt/pcb-front.jpeg
 website: https://web.archive.org/web/20100929204330/http://ndstt.com/
 ---
+
+This flashcard was a half-baked clone of the DSOne SDHC. The best kernel to use on it would be YSMenu as it has up-to-date game patches.
