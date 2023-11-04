@@ -12,6 +12,8 @@ downloads:
   BL2CK_1.31.0.zip:
     url: https://flashcard-archive.ds-homebrew.com/BL2CK/BL2CK_1.31.0.zip
 images:
+- url: /assets/images/cards/r4isdhc-hk-cards/pre-2020/front.png
+- url: /assets/images/cards/r4isdhc-hk-cards/pre-2020/back.png
 website: https://web.archive.org/web/20170722010359/http://www.r4isdhc.hk/index.htm
 ---
 

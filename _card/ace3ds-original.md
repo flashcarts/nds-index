@@ -1,17 +1,18 @@
 ---
-title: Original Ace3DS
+title: Ace3DS
 creator: Ace3DS
 description:
 categories:
 - ace3ds
 - ysmenu
 sdhc: true
-dsi: Up to ?
-3ds: Up to ?
+dsi: Up to 1.4.4
+3ds: Up to 4.0.0
 downloads:
   YSMenu:
     url: https://gbatemp.net/threads/267243/
 images:
+- url: /assets/images/cards/ace3ds-original/Front.jpg
 website: http://ace3ds.com
 ---
 
