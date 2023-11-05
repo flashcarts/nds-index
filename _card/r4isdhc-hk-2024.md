@@ -16,8 +16,8 @@ downloads:
 images:
 -  url: /assets/images/cards/r4isdhc-hk-cards/2024-onward/front.jpg
 -  url: /assets/images/cards/r4isdhc-hk-cards/2024-onward/back.jpg
--  url: /assets/images/cards/r4dspro-com/pcb_front.png
--  url: /assets/images/cards/r4dspro-com/pcb_back.png
+-  url: /assets/images/cards/r4dspro-com/pcb_front.jpg
+-  url: /assets/images/cards/r4dspro-com/pcb_back.jpg
 ---
 
 This flashcard is a relabelled version of the `R4DS Pro` cards. It will use BL2CK OS just like the regular `R4DS Pro` cards. However, this flashcard will not work with TwiLight Menu ++, meaning that your only options are BL2CK or the stock kernel which doesn't have great game compatibility.
