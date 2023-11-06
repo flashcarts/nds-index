@@ -1,5 +1,5 @@
 ---
-title: M3 DS Real
+title: M3 DS Real and M3i Zero (Non GMP-Z003)
 creator: M3 Adapter
 description:
 categories:
@@ -11,11 +11,11 @@ dsi: No
 3ds: No
 downloads:
   RetroGameFan YSMenu Fork 7.06:
-    url: https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/download
+    url: https://gbatemp.net/download/35737/download
   M3DS_Sakura_1.49b.zip:
     url: https://flashcard-archive.ds-homebrew.com/m3adapter.com/m3adapter.com_GMP-Z003_Sakura_1.49a.zip
 images:
-- url: /assets/images/cards/m3-ds-real/front.jpg
+- url: /assets/images/cards/m3-ds-real/front.png
 website: https://web.archive.org/web/20140106055622/http://m3adapter.com/
 ---
 

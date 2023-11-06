@@ -1,5 +1,5 @@
 ---
-title: Acekard2i
+title: Acekard 2i
 creator: Acekard
 description:
 categories:
@@ -24,6 +24,8 @@ images:
 website: https://web.archive.org/web/20140205183900/http://www.acekard.com/
 ---
 
-The original Acekard2i will use AKAIO 1.9.0. If it fails the clone checks however, you should use BL2CK instead.
+The original Acekard2i uses AKAIO 1.9.0. If your cart fails the clone check, it can instead use the BL2CK kernel. AKAIO has very good game and homebrew compatibilty, so this is one of the more reliable carts out there.
 
-This flashcard is unique in that it can be flashed with [ntrboot](https://3ds.hacks.guide/ntrboot) while still being usable for DS games!
+Note that while firmware updates allow the Acekard 2i to run on newer DSi firmwares like 1.4.4, they cause significant slow down in boot times, and you lose the AK2 logo on your home screen. If you use an NDS, DS Lite, hacked DSi, or hacked 3DS, it is recommended to downgrade to the oldest firmware available for faster boot times.
+
+This flashcart is unique in that it can be flashed with [ntrboot](https://3ds.hacks.guide/ntrboot) while still being usable for DS games at the same time! Installing ntrboot will also have the same effect as a firmware downgrade since it overwrites the fake game section of the firmware.
