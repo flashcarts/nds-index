@@ -12,7 +12,7 @@ dsi: Latest firmware
 downloads:
   RetroGameFan YSMenu Fork 7.06:
     url: https://gbatemp.net/download/35737/download
-  No-Timebomb R4i-SDHC 1.85b Kernel
+  No-Timebomb R4i-SDHC 1.85b Kernel:
     url: http://flashcard-archive.ds-homebrew.com/r4i-sdhc.com/old/r4i-sdhc.com_DEMON_1.85b-notimebomb.zip
 images:
 - url: /assets/images/cards/r4isdhc-com/front.png
