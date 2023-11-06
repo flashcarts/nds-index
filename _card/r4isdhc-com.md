@@ -21,8 +21,6 @@ images:
 
 This flashcart is a DSTTi-based clone that ships with a timebomb in the stock kernel. This timebomb doesn't cause any permanent damage - it simply stops the kernel from booting until the date is set back. It can be bypassed by using YSMenu or the no-timebomb version of the stock kernel. YSMenu is recommended since the stock kernel has issues with cheats, and doesn't have folder support for file management.
 
----
-
 ### Setup Instructions (YSMenu)
 
 1) [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
