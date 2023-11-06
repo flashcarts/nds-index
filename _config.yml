@@ -3,7 +3,7 @@ title       : "NDS Flashcard Index"
 description : "An index of all Nintendo DS flashcards"
 repo        : "flashcarts/nds-index"
 color       : "#80158A"
-image       : "https://avatars.githubusercontent.com/u/46971470?s=400&u=8e42e29aa9df11e990436648b66906c16b3f0ed7&v=4"
+image       : "/assets/images/favicon/favicon-196x196.png"
 
 sass:
   sass_dir: _sass
