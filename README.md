@@ -2,6 +2,8 @@
 
 This site aims to list every NDS flashcart in existence. It is based on [Universal-DB](https://github.com/Universal-Team/db)'s website files.
 
+<https://nds.flashcarts.net>
+
 ### Building the site locally
 
 1. Install [Ruby 3.x](https://www.ruby-lang.org/) for your machine
@@ -9,3 +11,8 @@ This site aims to list every NDS flashcart in existence. It is based on [Univers
 1. Run `bundle install` to install dependencies
 1. Run `bundle exec jekyll serve`
     - This will build the site to `_site`, and host a simple web server at `127.0.0.1:4000`
+
+### License
+
+- All files under the `_card` directory (the documentation) is licensed under CC-BY-NC-SA 4.0. You may read more in `LICENSE-docs.txt`.
+- All other files are licensed under the GPLv3 license. You may read more in `LICENSE-engine.txt`.
