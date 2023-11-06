@@ -24,6 +24,9 @@ images:
   description: Picture from a clone of the Ace3DS+
 - url: /assets/images/cards/ace3ds-plus/clone_pcb_back.jpg
   description: Picture from a clone of the Ace3DS+
+cheats: 
+- kernel: "Ace3DS+_R4iLS_Wood_R4_1.62: SD:/_rpg/cheats/usrcheat.dat"
+- kernel: "AOS_Ace3DSPlus: SD:/_rpg/cheats/usrcheat.dat"
 website: http://ace3ds.com
 ---
 

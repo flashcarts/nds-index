@@ -116,6 +116,14 @@ layout: compress
 											<h2 class="i18n innerHTML-description">Description</h2>
 											<div dir="ltr">
 												{{ content }}
+												{% if page.cheats %}
+													Cheat database location(s):
+													<ul>
+													{% for cheat in page.cheats %}
+														<li class="cheat-database">{{ cheat.kernel }}</li>
+													{% endfor %}
+													</ul>
+												{% endif %}
 											</div>
 										</div>
 									</div>
