@@ -23,4 +23,4 @@ This flashcart is a half-baked clone of the DSOne SDHC. YSMenu or RGF's TTMenu r
 
 Note that while YSMenu is pretty reliable when it comes to retail games, it often fails to load romhacks. If you want to play romhacks on this cart, using TWiLight Menu++ with nds-bootstrap as a dual-boot kernel is suggested. To set it up, follow steps 1-6 of the [TWiLight Menu guide](https://wiki.ds-homebrew.com/twilightmenu/installing-flashcard). Afterwards, simply launch BOOT.NDS in the menu to load into TWiLight.
 
-{% include kernels/ysmenu.md %}
+{% include kernels/ysmenu-dstt.md %}
