@@ -16,6 +16,8 @@ images:
 website: http://ace3ds.com
 ---
 
-The original Ace3DS is a DSTT clone. As such, it will use YSMenu. To set it up, copy the contents of `DSTTi Clone YSMenu` folder from RetroGameFan's YSMenu archive to the root of your microSD card. Then, make a copy of `TTMenu.dat` and rename it to `3DSCARD.dat`.
+The original Ace3DS is a DSTT clone. Unlike the Ace3DS teams later carts, it cannot run Ace Wood.
 
 **DO NOT** run the original TTMenu from ndstt.com as it will **brick** your flashcart!
+
+{% include kernels/ysmenu-dstt.md ysmenu_altBootFile="3DSCARD.DAT"}
