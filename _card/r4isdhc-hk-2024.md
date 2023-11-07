@@ -18,6 +18,9 @@ images:
 -  url: /assets/images/cards/r4isdhc-hk-cards/2024-onward/back.jpg
 -  url: /assets/images/cards/r4dspro-com/pcb_front.jpg
 -  url: /assets/images/cards/r4dspro-com/pcb_back.jpg
+cheats:
+- kernel: "BL2CK 1.31.0: SD:/_rpg/cheats/usrcheat.dat"
+- kernel: "r4dspro.com v1.50: SD:/_system_/cheat.dat"
 ---
 
 This flashcard is a relabelled version of the `R4DS Pro` cards. It will use BL2CK OS just like the regular `R4DS Pro` cards. However, this flashcard will not work with TwiLight Menu ++, meaning that your only options are BL2CK or the stock kernel which doesn't have great game compatibility.
@@ -28,3 +31,5 @@ This flashcard can be found with three different labels:
 + Dual Core
 
 There are no differences between them besides a different shell colour and label.
+
+{% include kernels/bl2ck.md %}

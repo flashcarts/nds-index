@@ -15,8 +15,12 @@ images:
 - url: /assets/images/cards/r4isdhc-hk-cards/pre-2020/front.png
 - url: /assets/images/cards/r4isdhc-hk-cards/pre-2020/back.png
 website: https://web.archive.org/web/20170722010359/http://www.r4isdhc.hk/index.htm
+cheats:
+- kernel: "BL2CK 1.31.0: SD:/_rpg/cheats/usrcheat.dat"
 ---
 
 This card is a clone of R4iTT's Acekard-based flashcards. All r4isdhc.hk cards from 2014-2019 will use BL2CK OS as their kernel. Most 2020 cards are based on the R4iLS cards, however, some are still based on R4iTT cards.
 
 **Do not** attempt to use YSMenu or TTMenu on this flashcard, attempting to launch them will **brick** your flashcard!
+
+{% include kernels/bl2ck.md %}

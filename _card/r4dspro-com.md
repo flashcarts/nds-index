@@ -18,8 +18,13 @@ images:
 -  url: /assets/images/cards/r4dspro-com/nolabel_front.jpg
 -  url: /assets/images/cards/r4dspro-com/pcb_front.jpg
 -  url: /assets/images/cards/r4dspro-com/pcb_back.jpg
+cheats:
+- kernel: "BL2CK 1.31.0: SD:/_rpg/cheats/usrcheat.dat"
+- kernel: "r4dspro.com v1.50: SD:/_system_/cheat.dat"
 ---
 
 This flashcard will use BL2CK OS as it is based on the R4 Ultra. However, this flashcard will not work with TwiLight Menu ++, meaning that your only options are BL2CK or the stock kernel (which doesn't have great game compatibility).
 
 This flashcard is also being sold without a label on AliExpress.
+
+{% include kernels/bl2ck.md %}
