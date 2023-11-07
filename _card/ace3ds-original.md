@@ -20,4 +20,4 @@ The original Ace3DS is a DSTT clone. Unlike the Ace3DS teams later carts, it can
 
 **DO NOT** run the original TTMenu from ndstt.com as it will **brick** your flashcart!
 
-{% include kernels/ysmenu-dstt.md ysmenu_altBootFile="3DSCARD.DAT"}
+{% include kernels/ysmenu-dstt.md ysmenu_altBootFile="3DSCARD.DAT" %}
