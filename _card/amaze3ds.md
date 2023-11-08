@@ -12,7 +12,7 @@ downloads:
   BL2CK_1.31.0_Amaze3DS.zip:
     url: https://flashcard-archive.ds-homebrew.com/BL2CK/BL2CK_1.31.0_Amaze3DS.zip
 images:
-- url: /assets/images/cards/amaze3ds/front.jpg
+- url: /assets/images/cards/amaze3ds/front.JPG
 cheats:
 - kernel: "BL2CK 1.31.0: SD:/_rpg/usrcheat.dat"
 website: https://web.archive.org/web/20131018071752/http://www.amaze3ds.com/
