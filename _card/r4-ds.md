@@ -15,7 +15,7 @@ images:
 - url: /assets/images/cards/original-r4/Back.jpg
 - url: /assets/images/cards/original-r4/aliexpress-clone-back.png
   description: 1:1 clone from AliExpress, other side does not have a label.
-website: http://www.r4ds.com
+website: http://web.archive.org/web/20231015104159/https://www.r4ds.com/
 ---
 
 The original R4 is limited to microSD cards only (up to 2GB in capacity). The best kernel to use on it would be `Wood R4 1.62` as the stock kernel isn't great to use.

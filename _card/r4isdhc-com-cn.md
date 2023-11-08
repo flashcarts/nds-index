@@ -17,6 +17,7 @@ downloads:
 images:
 - url: /assets/images/cards/r4isdhc-com-cn/Front.png
 - url: /assets/images/cards/r4isdhc-com-cn/Back.png
+website: http://r4isdhc.com.cn
 ---
 
 This flashcard is an R4iLS clone. This means that it will not work without a microSD card inserted into the card. This flashcard is also being sold with different coloured shells and labels, though the hardware inside is mostly the same across all of them.

@@ -3,6 +3,7 @@ title: Games n' Music
 creator: Datel
 description:
 categories:
+- datel
 sdhc: true
 dsi: false
 3ds: false

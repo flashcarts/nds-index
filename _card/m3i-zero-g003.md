@@ -4,6 +4,7 @@ creator: M3 Adapter
 description:
 categories:
 - m3
+- sakura
 sdhc: true
 dsi: Latest firmware
 3ds: Up to ?
