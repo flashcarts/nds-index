@@ -14,8 +14,8 @@ downloads:
   r4dspro.com_Kernel_1.50.zip:
     url: https://flashcard-archive.ds-homebrew.com/r4dspro.com/old/r4dspro.com_Kernel_1.50.zip
 images:
--  url: /assets/images/cards/r4isdhc-hk-cards/2024-onward/front.jpg
--  url: /assets/images/cards/r4isdhc-hk-cards/2024-onward/back.jpg
+-  url: /assets/images/cards/r4isdhc-hk/2024-onward/front.jpg
+-  url: /assets/images/cards/r4isdhc-hk/2024-onward/back.jpg
 -  url: /assets/images/cards/r4dspro-com/pcb_front.jpg
 -  url: /assets/images/cards/r4dspro-com/pcb_back.jpg
 cheats:
