@@ -14,7 +14,7 @@ downloads:
 images:
 - url: /assets/images/cards/r4isdhc-com/rts-lite/front.jpg
 - url: /assets/images/cards/r4isdhc-com/rts-lite/back.jpg
-website: https://web.archive.org/web/20201001180537/http://www.r4isdhc.com/
+website: https://web.archive.org/web/20130102183011/http://www.r4isdhc.com/
 ---
 
 This flashcart is a clone of R4iTT's DSTT-based carts. A clone of clones!

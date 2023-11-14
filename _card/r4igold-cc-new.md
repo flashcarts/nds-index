@@ -3,7 +3,6 @@ title: 'r4igold.cc "New"'
 creator: r4igold.cc
 description:
 categories:
-- amaze3ds
 - bl2ck
 sdhc: true
 dsi: false
