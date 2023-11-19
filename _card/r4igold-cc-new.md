@@ -3,7 +3,7 @@ title: 'r4igold.cc "New"'
 creator: r4igold.cc
 description:
 categories:
-- bl2ck
+- galaxy_eagle
 sdhc: true
 dsi: false
 3ds: false
