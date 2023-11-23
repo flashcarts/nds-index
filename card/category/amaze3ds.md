@@ -1,6 +1,6 @@
 ---
 layout: cards
-title: Flashcards - Amaze3DS
+title: Flashcarts - Amaze3DS
 category: amaze3ds
 system: card
 ---

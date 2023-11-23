@@ -1,6 +1,6 @@
 ---
 layout: cards
-title: Flashcards - SuperCard
+title: Flashcarts - SuperCard
 category: supercard
 system: card
 ---

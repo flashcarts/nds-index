@@ -1,6 +1,6 @@
 ---
 layout: cards
-title: Flashcards - Sakura
+title: Flashcarts - Sakura
 category: sakura
 system: card
 ---

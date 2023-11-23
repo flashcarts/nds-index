@@ -32,6 +32,6 @@ website: http://ace3ds.com
 
 The Ace3DS+ is based on the R4iLS line of flashcarts. This means that it will not work without a microSD card inserted into the card.
 
-This flashcart will use Ace3DS Wood 1.62, not to be confused with R4 Wood 1.62. Ace Wood 1.62 is based on the open source R4 Wood 1.25, and adds some patches on top of it to support more modern games. However, it is missing some patches for newer games and some titles (like Warioware D.I.Y) may refuse to launch. Others like Pokemon Black/White 2 are missing anti-piracy patches and require you to either have the "Bypass Anti-Piracy" cheat to be enabled, or have a pre-patched ROM.
+This flashcart will use ACE Wood 1.62, not to be confused with R4 Wood 1.62. ACE Wood 1.62 is based on the open source R4 Wood 1.25, and adds some patches on top of it to support more modern games. However, it is missing some patches for newer games and some titles (like Warioware D.I.Y) may refuse to launch. Others like Pokemon Black/White 2 are missing anti-piracy patches and require you to either have the "Bypass Anti-Piracy" cheat to be enabled, or have a pre-patched ROM.
 
 Clones of the Ace3DS+ are quite common, though not all of them look the same. Ace3DS+ clones cannot be flashed for ntrboot.

@@ -1,6 +1,6 @@
 ---
 layout: cards
-title: Flashcards - Galaxy Eagle
+title: Flashcarts - Galaxy Eagle
 category: galaxy_eagle
 system: card
 ---

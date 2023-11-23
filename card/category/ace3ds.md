@@ -1,6 +1,6 @@
 ---
 layout: cards
-title: Flashcards - Ace3DS
+title: Flashcarts - Ace3DS
 category: ace3ds
 system: card
 ---

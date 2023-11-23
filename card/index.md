@@ -1,5 +1,5 @@
 ---
 layout: cards
-title: Flashcards
+title: Flashcarts
 system: card
 ---

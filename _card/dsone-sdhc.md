@@ -24,10 +24,10 @@ images:
 website: http://eng.supercard.sc/manual/dsonei/
 ---
 
-These carts, and their clones sold online, use the EvolutionOS kernel. This is a highly-compatible kernel that can run almost all games, romhacks, and homebrew, and also comes with extra features not commonly found in other carts, like Real-Time-Save and an in-game menu.
+These flashcarts, and their clones sold online, use the EvolutionOS kernel. This is a highly-compatible kernel that can run almost all games, romhacks, and homebrew, and also comes with extra features not commonly found in other carts, like Real-Time-Save and an in-game menu.
 
 Clones of the DSOne SDHC are common on AliExpress and eBay at the moment, however they have a somwhat high dead-on-arrival rate.
 
-Using YSMenu is only recommended if your card has a PSRAM error and cannot use EOS. To check if your DSOne SDHC has a faulty PSRAM, hold L and R on boot to run the DSOne's self-test. The self-test feature was removed on the DSOnei.
+Using YSMenu is only recommended if your DSOne has a PSRAM error and cannot use EOS. To check if your DSOne SDHC has a faulty PSRAM, hold L and R on boot to run the DSOne's self-test. The self-test feature was removed on the DSOnei.
 
 More detailed information about setup and usage can be found in the [DSOne Manual GitHub](https://github.com/Sanrax/DSOneManual/tree/main)

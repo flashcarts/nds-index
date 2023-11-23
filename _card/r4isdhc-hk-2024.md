@@ -23,9 +23,9 @@ cheats:
 - kernel: "r4dspro.com v1.50: SD:/_system_/cheat.dat"
 ---
 
-This flashcard is a relabelled version of the `R4DS Pro` cards. It will use BL2CK OS just like the regular `R4DS Pro` cards. However, this flashcard will not work with TwiLight Menu ++, meaning that your only options are BL2CK or the stock kernel which doesn't have great game compatibility.
+This flashcart is a relabelled version of the `R4DS Pro` carts. It will use BL2CK OS just like the regular `R4DS Pro` carts. However, this flashcart will not work with TwiLight Menu ++, meaning that your only options are BL2CK or the stock kernel which doesn't have great game compatibility.
 
-This flashcard can be found with three different labels:
+This flashcart can be found with three different labels:
 + Gold Pro
 + RTS Lite
 + Dual Core

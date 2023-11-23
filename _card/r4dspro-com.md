@@ -23,8 +23,8 @@ cheats:
 - kernel: "r4dspro.com v1.50: SD:/_system_/cheat.dat"
 ---
 
-This flashcard will use BL2CK OS as it is based on the R4 Ultra. However, this flashcard will not work with TwiLight Menu ++, meaning that your only options are BL2CK or the stock kernel (which doesn't have great game compatibility).
+This flashcart will use BL2CK OS as it is based on the R4 Ultra. However, this flashcart will not work with TwiLight Menu ++, meaning that your only options are BL2CK or the stock kernel (which doesn't have great game compatibility).
 
-This flashcard is also being sold without a label on AliExpress.
+This flashcart is also being sold without a label on AliExpress.
 
 {% include kernels/bl2ck.md %}

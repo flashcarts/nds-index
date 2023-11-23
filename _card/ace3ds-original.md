@@ -16,7 +16,7 @@ images:
 website: http://ace3ds.com
 ---
 
-The original Ace3DS is a DSTT clone. Unlike the Ace3DS teams later carts, it cannot run Ace Wood.
+The original Ace3DS is a DSTT clone. Unlike the Ace3DS teams newer flashcarts, it cannot run ACE Wood.
 
 **DO NOT** run the original TTMenu from ndstt.com as it will **brick** your flashcart!
 

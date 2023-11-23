@@ -20,8 +20,8 @@ images:
 website: http://r4isdhc.com.cn
 ---
 
-This flashcard is an R4iLS clone. This means that it will not work without a microSD card inserted into the card. This flashcard is also being sold with different coloured shells and labels, though the hardware inside is mostly the same across all of them.
+This flashcart is an R4iLS clone. This means that it will not work without a microSD card inserted into the card. This flashcart is also being sold with different coloured shells and labels, though the hardware inside is mostly the same across all of them.
 
-This flashcard will use Ace Wood 1.62, not to be confused with R4 Wood 1.62. Ace Wood 1.62 is based on the open source R4 Wood 1.25, it adds some patches on top of it to support more modern games. However, it is missing some patches for newer games and some titles (like Warioware D.I.Y) may refuse to launch.
+This flashcart will use Ace Wood 1.62, not to be confused with R4 Wood 1.62. Ace Wood 1.62 is based on the open source R4 Wood 1.25, it adds some patches on top of it to support more modern games. However, it is missing some patches for newer games and some titles (like Warioware D.I.Y) may refuse to launch.
 
-Older variants of this flashcard (pre-2019) can be flashed with ntrboot. However, they cannot be reflashed to their DS firmware. Newer models cannot be flashed with ntrboot.
+Older variants of this flashcart (pre-2019) can be flashed with ntrboot. However, they cannot be reflashed to their DS firmware. Newer models cannot be flashed with ntrboot.

@@ -1,6 +1,6 @@
 ---
 layout: cards
-title: Flashcards - Acekard
+title: Flashcarts - Acekard
 category: acekard
 system: card
 ---

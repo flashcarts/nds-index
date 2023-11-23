@@ -5,6 +5,6 @@ title: Home
 
 # {{ site.title }}
 
-This site aims to be a visual guide to the [Flashcard Archive](https://flashcard-archive.ds-homebrew.com). Not every flashcard is listed on this site as of now. Each flashcard has been categorised by the manufacturer and any common kernels which it may use.
+This site aims to be a visual guide to [DS-Homebrew's flashcard-archive](https://flashcard-archive.ds-homebrew.com). Not every flashcart is listed on this site as of now. Each flashcart has been categorised by the manufacturer and any common kernels which it may use.
 
-[Click here to go to the flashcard list](/card/)
+[Click here to go to the flashcart list](/card/)

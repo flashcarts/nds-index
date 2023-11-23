@@ -19,8 +19,8 @@ images:
 - url: /assets/images/cards/r4isdhc-hk/2020-2023/Back.png
 ---
 
-This flashcard is an R4iLS clone. It is typically sold as a "Dual Core" 2020-2023 flashcard from r4isdhc.hk. This means that it will not work without a microSD card inserted into the card.
+This flashcart is an R4iLS clone. It is typically sold as a "Dual Core" 2020-2023 flashcart from r4isdhc.hk. This means that it will not work without a microSD card inserted into the card.
 
-This flashcard will use Ace Wood 1.62, not to be confused with R4 Wood 1.62. Ace Wood 1.62 is based on the open source R4 Wood 1.25, it adds some patches on top of it to support more modern games. However, it is missing some patches for newer games and some titles (like Warioware D.I.Y) may refuse to launch.
+This flashcart will use Ace Wood 1.62, not to be confused with R4 Wood 1.62. Ace Wood 1.62 is based on the open source R4 Wood 1.25, it adds some patches on top of it to support more modern games. However, it is missing some patches for newer games and some titles (like Warioware D.I.Y) may refuse to launch.
 
-This flashcard cannot be flashed for ntrboot. Note that some [2020 models have been shipped with R4iTT-clone hardware](/card/r4isdhc-hk-pre2020) instead of being based on the R4iLS.
+This flashcart cannot be flashed for ntrboot. Note that some [2020 models have been shipped with R4iTT-clone hardware](/card/r4isdhc-hk-pre2020) instead of being based on the R4iLS.

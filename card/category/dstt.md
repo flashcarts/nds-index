@@ -1,6 +1,6 @@
 ---
 layout: cards
-title: Flashcards - DSTT
+title: Flashcarts - DSTT
 category: dstt
 system: card
 ---

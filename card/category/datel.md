@@ -1,6 +1,6 @@
 ---
 layout: cards
-title: Flashcards - Datel
+title: Flashcarts - Datel
 category: datel
 system: card
 ---
