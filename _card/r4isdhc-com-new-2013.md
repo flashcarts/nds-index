@@ -5,8 +5,8 @@ description:
 categories:
 - bl2ck
 sdhc: true
-dsi: Up to ?
-3ds: Up to ?
+dsi: Up to 1.4.5
+3ds: Up to 4.3.0
 downloads:
   BL2CK_1.31.0.zip:
     url: https://flashcard-archive.ds-homebrew.com/BL2CK/BL2CK_1.31.0.zip

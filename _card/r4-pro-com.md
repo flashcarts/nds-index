@@ -15,6 +15,6 @@ images:
 - url: /assets/images/cards/r4-pro-com/back.jpg
 cheats:
 - kernel: "BL2CK 1.31.0: SD:/_rpg/usrcheat.dat"
-website: http://web.archive.org/web/20190621024221/http://r4igold.cc/
+website: https://web.archive.org/web/20100805073737/http://www.r4-pro.com/
 ---
 {% include kernels/bl2ck.md %}

@@ -27,4 +27,6 @@ This flashcart will use BL2CK OS as it is based on the R4 Ultra. However, this f
 
 This flashcart is also being sold without a label on AliExpress.
 
+Do not attempt to run YSMenu on this flashcart, doing so will cause it to **brick**!
+
 {% include kernels/bl2ck.md %}

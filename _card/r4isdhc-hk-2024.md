@@ -32,4 +32,6 @@ This flashcart can be found with three different labels:
 
 There are no differences between them besides a different shell colour and label.
 
+Do not attempt to run YSMenu on this flashcart, doing so will cause it to **brick**!
+
 {% include kernels/bl2ck.md %}
