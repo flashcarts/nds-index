@@ -15,8 +15,8 @@ exclude:
 
 analytics:
   gtag:
-    id:
-    anonymize_ip: # false (default)
+    id: G-Z9LJ9NMQCQ
+    anonymize_ip: true # false (default)
 
 defaults:
   - scope:
