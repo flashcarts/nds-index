@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy"
+layout: default
 ---
 
 ### Embedded Content From Other Websites

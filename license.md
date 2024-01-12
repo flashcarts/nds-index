@@ -1,5 +1,6 @@
 ---
 title: License Disclosure
+layout: default
 ---
 
 Copyright © 2023 lifehackerhansol and contributors
