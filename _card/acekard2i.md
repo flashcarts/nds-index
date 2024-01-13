@@ -4,15 +4,17 @@ creator: Acekard
 description:
 categories:
 - acekard
+- bl2ck
+- akaio
 sdhc: true
 dsi: Up to 1.4.4
 3ds: Up to 4.3.0
 downloads:
-  AKAIO_1.9.0-20121129.zip:
+  AKAIO 1.9.0:
     url: https://flashcard-archive.ds-homebrew.com/acekard.com/AceKard_2i/AKAIO_1.9.0-20121129.zip
-  BL2CK_1.31.0.zip:
+  BL2CK 1.31.0:
     url: https://flashcard-archive.ds-homebrew.com/BL2CK/BL2CK_1.31.0.zip
-  Acekard_2i_FWUpdate:
+  Acekard 2i FWUpdate:
     url: https://flashcard-archive.ds-homebrew.com/acekard.com/AceKard_2i/Acekard_2i_FWUpdate/
 images:
 - url: /assets/images/cards/acekard2i/front.jpeg
@@ -29,3 +31,5 @@ The original Acekard2i uses AKAIO 1.9.0. If your cart fails the clone check, it 
 Note that while firmware updates allow the Acekard 2i to run on newer DSi firmwares like 1.4.4, they cause significant slow down in boot times, and you lose the AK2 logo on your home screen. If you use an NDS, DS Lite, hacked DSi, or hacked 3DS, it is recommended to downgrade to the oldest firmware available for faster boot times.
 
 This flashcart is unique in that it can be flashed with [ntrboot](https://3ds.hacks.guide/ntrboot) while still being usable for DS games at the same time! Installing ntrboot will also have the same effect as a firmware downgrade since it overwrites the fake game section of the firmware.
+
+{% include kernels/akaio.md akaio="1.9.0" %}
