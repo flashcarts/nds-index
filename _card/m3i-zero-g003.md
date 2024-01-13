@@ -9,7 +9,7 @@ sdhc: true
 dsi: Latest firmware
 3ds: Up to ?
 downloads:
-  M3DS_Sakura_1.49b.zip:
+  M3DS Sakura 1.49b:
     url: https://flashcard-archive.ds-homebrew.com/m3adapter.com/m3adapter.com_GMP-Z003_Sakura_1.49a.zip
 images:
 - url: /assets/images/cards/m3i-zero-g003/front.jpg

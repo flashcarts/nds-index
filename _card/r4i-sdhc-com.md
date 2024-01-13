@@ -7,8 +7,8 @@ categories:
 - timebomb
 - ysmenu
 sdhc: true
-dsi: Latest firmware
-3ds: Latest firmware
+dsi: Depends
+3ds: Depends
 downloads:
   RetroGameFan YSMenu Fork 7.06:
     url: https://gbatemp.net/download/35737/download
@@ -22,5 +22,7 @@ website: http://r4i-sdhc.com
 ---
 
 This family of flashcarts are DSTTi-based clones that ship with a timebomb in the stock kernel. This timebomb doesn't cause any permanent damage - it simply stops the kernel from booting until the date is set back. It can be bypassed by using YSMenu or the no-timebomb version of the stock kernel. YSMenu is recommended since the stock kernel has issues with cheats, and doesn't have folder support for file management.
+
+There are a number of flashcarts by r4i-sdhc.com, not every one of them is compatible with the latest DSi/3DS firmware. The R4i 3DS B9S is pre-flashed with ntrboot, if you want to use it like a normal DS flashcart, you will have to flash it back to the normal DS firmware. 
 
 {% include kernels/ysmenu-dstt.md timebomb="true" %}

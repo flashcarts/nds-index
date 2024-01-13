@@ -8,8 +8,8 @@ sdhc: false
 dsi: false
 3ds: false
 downloads:
-  R4DS_Wood_R4_1.62.7z:
-    url: https://flashcard-archive.ds-homebrew.com/R4_original_M3_Simply/R4DS_Wood_R4_1.62.7z
+  Wood R4 1.62:
+    url: https://flashcard-archive.ds-homebrew.com/R4_original_M3_Simply/R4DS_Wood_R4_1.62.zip
 images:
 - url: /assets/images/cards/original-r4/Front.jpg
 - url: /assets/images/cards/original-r4/Back.jpg
@@ -21,3 +21,5 @@ website: http://web.archive.org/web/20231015104159/https://www.r4ds.com/
 The original R4 is limited to microSD cards only (up to 2GB in capacity). The best kernel to use on it would be `Wood R4 1.62` as the stock kernel isn't great to use.
 
 1:1 clones of the original R4 are still being sold on AliExpress. However, it is not recommended to buy them due to the lack of SDHC support.
+
+{% include kernels/wood.md wood="1.62" %}

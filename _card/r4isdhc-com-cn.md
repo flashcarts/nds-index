@@ -10,10 +10,10 @@ sdhc: true
 dsi: Latest firmware
 3ds: Latest firmware
 downloads:
-  Ace3DS+_R4iLS_Wood_R4_1.62.zip:
+  Ace3DS+/R4iLS Wood R4 1.62:
     url: https://flashcard-archive.ds-homebrew.com/Ace3DS+_R4iLS/Ace3DS+_R4iLS_Wood_R4_1.62.zip
-  AOS_R4iLS.zip:
-    url: https://github.com/flashcarts/AOS/releases/download/v2.13-3E/AOS_R4iLS.zip
+  AceOS for R4iLS:
+    url: https://github.com/flashcarts/AOS/releases/latest/download/AOS_R4iLS.zip
 images:
 - url: /assets/images/cards/r4isdhc-com-cn/Front.png
 - url: /assets/images/cards/r4isdhc-com-cn/Back.png
