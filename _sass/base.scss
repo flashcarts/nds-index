@@ -437,6 +437,12 @@ html[dir=rtl] .li-bullet {
 	margin-right: 1.5em;
 }
 
+// Prevent oversized images in cart pages
+.app-image{
+	max-height:240px;
+	min-height:120px;
+}
+
 // Hide header anchors unless hovering the header
 .header-anchor {
 	text-decoration: none;

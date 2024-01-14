@@ -29,7 +29,7 @@ layout: compress
 									{% if page.website %}<a href="{{ page.website }}">{% elsif page.source %}<a href="{{ page.source }}">{% endif %}
 										{% if page.images.size > 0 %}
 											<div class="card-header">
-												<img class="mx-auto d-block mw-100" src="{{ page.images[0].url }}" alt="{{ page.images[0].description | default: page.title | escape }}">
+												<img class="mx-auto d-block mw-100 app-image" src="{{ page.images[0].url }}" alt="{{ page.images[0].description | default: page.title | escape }}">
 											</div>
 										{% endif %}
 										<div class="card-body" dir="ltr">
@@ -144,7 +144,7 @@ layout: compress
 												<div class="carousel-inner">
 													{% for img in page.images %}
 														<div class="carousel-item mt-2 mb-2 {% if forloop.first %}active{% endif %}">
-															<img src="{{ img.url }}" class="d-block mx-auto" alt="{{ img.description }}">
+															<img src="{{ img.url }}" class="d-block mx-auto app-image" alt="{{ img.description }}">
 															<div class="carousel-caption d-none d-md-block">
 																<h5 class="carousel-label">{{ img.description }}</h5>
 															</div>
