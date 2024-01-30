@@ -23,9 +23,7 @@ cheats:
 - kernel: "r4dspro.com v1.50: SD:/_system_/cheat.dat"
 ---
 
-This flashcart will use BL2CK OS as it is based on the R4 Ultra. However, this flashcart will not work with TwiLight Menu ++, meaning that your only options are BL2CK or the stock kernel (which doesn't have great game compatibility).
-
-This flashcart is also being sold without a label on AliExpress.
+This flashcart will use BL2CK OS as it is Acekard 2 based. It will not use AKAIO. This flashcart is currently being sold on AliExpress without a label.
 
 Do not attempt to run YSMenu on this flashcart, doing so will cause it to **brick**!
 
