@@ -261,13 +261,6 @@ html[dir=rtl] .navbar-toggler {
 	color: $nav-link-color-hover;
 }
 
-// Make images smaller
-.img-small {
-	max-width: 250px;
-	max-height: 250px;
-}
-
-
 html:not([dir=rtl]) {
 	.btn-back {
 		position: absolute;
@@ -439,8 +432,9 @@ html[dir=rtl] .li-bullet {
 
 // Prevent oversized images in cart pages
 .app-image{
-	max-height:240px;
-	min-height:120px;
+	height:280px;
+	width:auto;
+	object-fit:contain;
 }
 
 // Hide header anchors unless hovering the header
