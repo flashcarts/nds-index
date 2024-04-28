@@ -12,6 +12,7 @@ downloads:
         url: https://flashcard-archive.ds-homebrew.com/acekard.com/AceKard_RPG/Acekard_RPG_Wood_RPG_1.62.zip
 images:
  - url: /assets/images/cards/acekard-rpg/front.jpg
+ - url: /assets/images/cards/acekard-rpg/back.png
 website: https://web.archive.org/web/20140205183900/http://www.acekard.com/
 ---
 
