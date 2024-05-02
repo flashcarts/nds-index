@@ -15,8 +15,10 @@ downloads:
   No-Timebomb R4i-SDHC 1.85b Kernel:
     url: http://flashcard-archive.ds-homebrew.com/r4i-sdhc.com/old/r4i-sdhc.com_DEMON_1.85b-notimebomb.zip
 images:
-- url: /assets/images/cards/r4isdhc-com/timebomb/front.png
-- url: /assets/images/cards/r4isdhc-com/timebomb/back.png
+- url: /assets/images/cards/r4isdhc-com/timebomb/front.JPG
+- url: /assets/images/cards/r4isdhc-com/timebomb/back.jpg
+- url: /assets/images/cards/r4isdhc-com/timebomb/pcb_front.png
+- url: /assets/images/cards/r4isdhc-com/timebomb/pcb_back.JPG
 website: https://web.archive.org/web/20201001180537/http://www.r4isdhc.com/
 ---
 
