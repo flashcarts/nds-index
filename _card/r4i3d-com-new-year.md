@@ -12,7 +12,8 @@ downloads:
     url: https://flashcard-archive.ds-homebrew.com/BL2CK/BL2CK_1.31.0.zip
 images:
 - url: /assets/images/cards/r4i3d-com/new-2012/front_new.jpg
-- url: /assets/images/cards/r4i3d-com/new-2012/front_year.jpg
+- url: /assets/images/cards/r4i3d-com/new-2012/front_year.png
+- url: /assets/images/cards/r4i3d-com/new-2012/back.png
 cheats:
 - kernel: "BL2CK 1.31.0: SD:/_rpg/usrcheat.dat"
 website: https://web.archive.org/web/20170726230538/http://www.r4i3d.com/
