@@ -10,9 +10,9 @@ sdhc: true
 dsi: Latest firmware
 3ds: Latest firmware
 downloads:
-  Ace3DS+/R4iLS Wood R4 1.62:
+  Ace3DS+ Wood R4 1.62:
     url: https://flashcard-archive.ds-homebrew.com/Ace3DS+_R4iLS/Ace3DS+_R4iLS_Wood_R4_1.62.zip
-  AceOS for Ace3DSPlus:
+  AOS for Ace3DSPlus:
     url: http://github.com/flashcarts/AOS/releases/latest/download/AOS_Ace3DSPlus.zip
 images:
 - url: /assets/images/cards/ace3ds-x/Front.jpeg
@@ -29,3 +29,5 @@ When the switch is in the bottom position, it is in DS mode. You should see `Spo
 Keep in mind that this flashcart **will not work** in either mode without a microSD card inserted.
 
 This flashcart will use ACE Wood 1.62, not to be confused with R4 Wood 1.62. ACE Wood 1.62 is based on the open source R4 Wood 1.25, and adds some patches on top of it to support more modern games. However, it is missing some patches for newer games and some titles (like Warioware D.I.Y) may refuse to launch. Others like Pokemon Black/White 2 are missing anti-piracy patches and require you to either have the "Bypass Anti-Piracy" cheat to be enabled, or have a pre-patched ROM.
+
+{% include kernels/ace_wood.md %}
