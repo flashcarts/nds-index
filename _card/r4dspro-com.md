@@ -27,4 +27,4 @@ This flashcart will use BL2CK OS as it is Acekard 2 based. It will not use AKAIO
 
 Do not attempt to run YSMenu on this flashcart, doing so will cause it to **brick**!
 
-{% include kernels/bl2ck.md %}
+{% include kernels/bl2ck.md r4dspro=true %}

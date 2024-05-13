@@ -1,7 +1,9 @@
 {% if include.amaze3ds == "true" %}
-{% assign bl2ck_ver = "BL2CK 1.31.0 Amaze3DS" %}
+{% assign bl2ck_ver = "BL2CK 1.31.0 (Amaze3DS)" %}
 {% elsif include.edgei == "true" %}
-{% assign bl2ck_ver = "BL2CK 1.31.0 EDGEi" %}
+{% assign bl2ck_ver = "BL2CK 1.31.0 (EDGEi)" %}
+{% elsif include.r4dspro == "true" %}
+{% assign bl2ck_ver = "BL2CK 1.31.0 (r4dspro.com)" %}
 {% else %}
 {% assign bl2ck_ver = "BL2CK 1.31.0" %}
 {% endif %}
