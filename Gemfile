@@ -27,3 +27,6 @@ end
 gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
 gem "webrick", "~> 1.8", ">= 1.8.1"
+
+# Removing this will break the site under Arch Linux's provided ruby package (3.0.6-1) as it appears to be missing the json gem.
+gem "json", "~>2.7", ">=2.7.2"
