@@ -20,4 +20,4 @@ website: https://web.archive.org/web/20170726230538/http://www.r4i3d.com/
 ---
 This flashcart is a DSTT clone which will boot from `R4i.3ds`. **Do not** run YSMenu on any r4i3d.com cart with a year number/"new" written on the label.
 
-{% include kernels/ysmenu-dstt.md ysmenu_altBootFIle="R4i.3ds" %}
+{% include kernels/ysmenu-dstt.md ysmenu_altBootFile="R4i.3ds" %}
