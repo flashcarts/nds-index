@@ -15,12 +15,12 @@ downloads:
   RetroGameFan YSMenu Fork 7.06:
     url: https://gbatemp.net/download/35737/download
 images:
-- url: /assets/images/cards/dsone-sdhc/front.gif
+- url: /assets/images/cards/dsone-sdhc/Front.png
 - url: /assets/images/cards/dsone-sdhc/front-aliexpress.jpeg
   description: AliExpress clone (no sticker)
-- url: /assets/images/cards/dsone-sdhc/back.jpeg
-- url: /assets/images/cards/dsone-sdhc/pcb-back.jpeg
-- url: /assets/images/cards/dsone-sdhc/pcb-front.jpeg
+- url: /assets/images/cards/dsone-sdhc/Back.jpg
+- url: /assets/images/cards/dsone-sdhc/PCB_Back.jpg
+- url: /assets/images/cards/dsone-sdhc/PCB_Front.jpg
 website: http://eng.supercard.sc/manual/dsonei/
 ---
 

@@ -9,7 +9,7 @@
     {% assign aos = "Ace3DSPlus" %}
 {% endif %}
 
-This flashcart will use ACE Wood 1.62, not to be confused with R4 Wood 1.62. ACE Wood 1.62 is based on an old version of R4 Wood from when it was open source, and adds some patches on top of it to support more modern games. However, it is missing some anti-piracy patches for newer games (notably Pokemon Black/White 2) and some titles (like Warioware D.I.Y) may refuse to launch.
+This flashcart will use ACE Wood 1.62, not to be confused with R4 Wood 1.62. ACE Wood 1.62 is based on an old version of R4 Wood from when it was open source, and adds some patches on top of it to support more modern games. However, it is missing some anti-piracy patches for newer games (notably Pokemon Black/White 2).
 
 ### Setup Instructions ({{ wood }} Wood 1.62)
 1. Download {{ wood }} Wood 1.62

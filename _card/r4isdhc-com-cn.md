@@ -17,6 +17,8 @@ downloads:
 images:
 - url: /assets/images/cards/r4isdhc-com-cn/Front.png
 - url: /assets/images/cards/r4isdhc-com-cn/Back.png
+- url: /assets/images/cards/r4isdhc-com-cn/PCB_Front.jpg
+- url: /assets/images/cards/r4isdhc-com-cn/PCB_Back.jpg
 website: http://r4isdhc.com.cn
 ---
 
