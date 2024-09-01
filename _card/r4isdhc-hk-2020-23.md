@@ -15,8 +15,12 @@ downloads:
   AOS for R4iLS:
     url: https://github.com/flashcarts/AOS/releases/latest/download/AOS_R4iLS.zip
 images:
-- url: /assets/images/cards/r4isdhc-hk/2020-2023/Front.png
-- url: /assets/images/cards/r4isdhc-hk/2020-2023/Back.png
+- url: /assets/images/cards/r4isdhc-hk/2020-2023/Front.jpg
+- url: /assets/images/cards/r4isdhc-hk/2020-2023/Back.jpg
+- url: /assets/images/cards/r4isdhc-hk/2020-2023/PCB_Front.jpg
+- url: /assets/images/cards/r4isdhc-hk/2020-2023/PCB_Back.jpg
+- url: /assets/images/cards/r4isdhc-hk/2020-2023/Box_Front.jpg
+- url: /assets/images/cards/r4isdhc-hk/2020-2023/Box_Back.jpg
 ---
 
 This flashcart is an R4iLS clone. It is typically sold as a "Dual Core" 2020-2023 flashcart from r4isdhc.hk. This means that it will not work without a microSD card inserted into the card.

@@ -18,6 +18,9 @@ images:
 - url: /assets/images/cards/r4i-sdhc-com/front-rts.png
 - url: /assets/images/cards/r4i-sdhc-com/front-b9s.png
 - url: /assets/images/cards/r4i-sdhc-com/front-upgrade.jpg
+- url: /assets/images/cards/r4i-sdhc-com/back-upgrade.jpg
+- url: /assets/images/cards/r4i-sdhc-com/pcb-front-upgrade.jpg
+- url: /assets/images/cards/r4i-sdhc-com/pcb-back-upgrade.jpg
 website: http://r4i-sdhc.com
 ---
 
