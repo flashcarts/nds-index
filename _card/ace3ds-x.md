@@ -17,6 +17,8 @@ downloads:
 images:
 - url: /assets/images/cards/ace3ds-x/Front.jpeg
 - url: /assets/images/cards/ace3ds-x/Back.jpeg
+- url: /assets/images/cards/ace3ds-x/pcb_front.jpg
+- url: /assets/images/cards/ace3ds-x/pcb_back.jpg
 website: http://ace3ds.com
 ---
 

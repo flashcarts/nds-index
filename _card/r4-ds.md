@@ -13,6 +13,8 @@ downloads:
 images:
 - url: /assets/images/cards/original-r4/Front.jpg
 - url: /assets/images/cards/original-r4/Back.jpg
+- url: /assets/images/cards/original-r4/pcb_front.jpg
+- url: /assets/images/cards/original-r4/pcb_back.jpg
 - url: /assets/images/cards/original-r4/aliexpress-clone-back.png
   description: 1:1 clone from AliExpress, other side does not have a label.
 website: http://web.archive.org/web/20231015104159/https://www.r4ds.com/
