@@ -16,7 +16,7 @@ downloads:
 images:
 - url: /assets/images/cards/ezflash-parallel/front.png
 - url: /assets/images/cards/ezflash-parallel/front_pcb.jpg
-website: https://www.ezflash.com/
+website: https://www.ezflash.cn
 ---
 
 This flashcart was released by the EZ-Flash team, it's an original design flashcart and runs a kernel based on Wood RPG. The flashcart is powered by a Gowin GW1N-LV9 FPGA (advertised by EZ-Flash as an original chinese designed FPGA). This flashcart suffers from MicroSD performance problems and bugs such as a non-functional sleep mode which appear to be in hardware and not fixable in software.
