@@ -19,7 +19,7 @@ images:
 website: http://web.archive.org/web/20070107032710/http://www.dsgba.com/
 ---
 
-The N-Card is a series of NAND based flashcarts by DSGBA with the games stored on an internal NAND flash module. The contents of the NAND is accessed by the use of a Slot 2 USB adapter or by the use of a direct USB dongle. This cart saves game progress to SRAM and saves back to NAND upon rebooting, for the interim it makes use of a small rechargeable cell to keep the SRAM powered, however due to age, the battery may not hold much of a charge, so it is advise to reboot the console immediately after saving to ensure your progress is saved.
+The N-Card is a series of NAND based flashcarts by DSGBA with the games stored on an internal NAND flash module. The contents of the NAND is accessed by the use of a Slot 2 USB adapter or by the use of a direct USB dongle. This cart saves game progress to SRAM and saves back to NAND upon rebooting, for the interim it makes use of a small rechargeable cell to keep the SRAM powered, however due to age, the battery may not hold much of a charge, so it is advised to reboot the console immediately after saving to ensure your progress is saved.
 
 The N-Card also had many clones under different names (DS Linker, DS Fire Link, Ultra FlashPass EX, NeoFlash MK5, Ultra N-Card) which are all compatible with the same uDisk and Xulumenu firmware.
 

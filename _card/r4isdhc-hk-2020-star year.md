@@ -1,5 +1,5 @@
 ---
-title: r4isdhc.hk 2020-2023
+title: r4isdhc.hk 2020+ Star Year
 creator: r4isdhc.hk
 description:
 categories:
@@ -23,7 +23,7 @@ images:
 - url: /assets/images/cards/r4isdhc-hk/2020-2023/Box_Back.jpg
 ---
 
-This flashcart is an R4iLS clone. It is typically sold as a "Dual Core" 2020-2023 flashcart from r4isdhc.hk. This means that it will not work without a microSD card inserted into the card.
+This flashcart is an R4iLS clone. It is typically sold as a "Dual Core" flashcart with a year of 2020 or newer from r4isdhc.hk with the year being inside a star shape inside of a banner. This means that it will not work without a microSD card inserted into the card.
 
 This flashcart cannot be flashed for ntrboot. Note that some [2020 models have been shipped with R4iTT-clone hardware](/card/r4isdhc-hk-pre2020) instead of being based on the R4iLS.
 

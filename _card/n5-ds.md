@@ -27,11 +27,13 @@ This flashcart is a clone of the OG R4SDHC and thus has the same 4GB SDHC card l
 1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
 1. Download RetroGameFan YSMenu Fork 7.06
 1. Download the N5 1.32 Kernel
-1. Extract the YSMenu .7z you downloaded using 7-zip or similar, then go into the `R4SDHC YSMenu` folder.
+1. Extract the YSMenu .7z you downloaded using 7-zip or similar, then go into the `R4-Clone YSMenu` folder.
 1. From this folder, copy the following files/folders to your SD card root.
     - `Games` folder
     - `TTMenu` folder
-    - `_DS_MENU.DAT`
+    - `YSMenu.nds`
+    - `TTMenu.dat`
+1. Rename `YSMenu.nds` to `_DS_MENU.DAT`.
 1. Extract the N5 1.32 Kernel .zip you downloaded.
 1. From this folder, copy `_AX_MENU.DAT` to your SD card root.
 1. Place any `.nds` game ROMs you'd like to play into the `Games` folder.
