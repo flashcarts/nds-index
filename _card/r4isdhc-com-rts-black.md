@@ -18,6 +18,8 @@ images:
 website: https://web.archive.org/web/20130102183011/http://www.r4isdhc.com/
 ---
 
-This flashcart is an M3 DS Real clone by `r4isdhc.com`. It will not use M3 Sakura, though it can use YSMenu with flashcard-bootstrap.
+This flashcart is an M3 DS Real clone by `r4isdhc.com`. It is not compatible M3 Sakura, though it can use YSMenu with flashcard-bootstrap.
+
+There is also a variant of this flashcart with `2025` written on the label, those carts are not M3 DS Real clones but are instead [r4isdhc.com 2014+ DEMON clones](/card/r4isdhc-com-2014).
 
 {% include kernels/ysmenu-m3.md %}

@@ -20,13 +20,12 @@ images:
 website: https://web.archive.org/web/20120603014114/http://www.dsn5.com/
 ---
 
-This flashcart is a clone of the OG R4SDHC and thus has the same 4GB SDHC card limitation.
+This flashcart is a clone of the OG R4SDHC and thus has the same 4GB SDHC card limitation. This cart requires it's `_AX_MENU.DAT` file to boot up regardless of the kernel used.
 
 ### Setup Instructions (YSMenu)
 
 1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
 1. Download RetroGameFan YSMenu Fork 7.06
-1. Download the N5 1.32 Kernel
 1. Extract the YSMenu .7z you downloaded using 7-zip or similar, then go into the `R4-Clone YSMenu` folder.
 1. From this folder, copy the following files/folders to your SD card root.
     - `Games` folder
@@ -34,6 +33,6 @@ This flashcart is a clone of the OG R4SDHC and thus has the same 4GB SDHC card l
     - `YSMenu.nds`
     - `TTMenu.dat`
 1. Rename `YSMenu.nds` to `_DS_MENU.DAT`.
-1. Extract the N5 1.32 Kernel .zip you downloaded.
-1. From this folder, copy `_AX_MENU.DAT` to your SD card root.
+1. Download the [N5 Boot file](https://github.com/flashcarts/flashcard-archive/raw/refs/heads/main/archive/dsn5.com/dsn5.com_N5_Kernel_1.32/_AX_MENU.DAT).
+1. Copy `_AX_MENU.DAT` to your SD card root.
 1. Place any `.nds` game ROMs you'd like to play into the `Games` folder.

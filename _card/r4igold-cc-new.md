@@ -17,7 +17,7 @@ cheats:
 - kernel: "r4igold.cc 2.6: SD:/_system_/cheat.dat"
 website: http://web.archive.org/web/20190621024221/http://r4igold.cc/
 ---
-This flashcart is an [original r4igold.cc](/card/r4igold-cc-original.html) cart with a different label on it. It will use the exact same kernel.
+This flashcart is an [original r4igold.cc](/card/r4igold-cc-original.html) cart with a different label on it. It uses the exact same kernel.
 
 ### Setup Instructions (r4igold.cc 2.6)
 1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)

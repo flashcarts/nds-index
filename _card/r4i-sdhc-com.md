@@ -12,8 +12,8 @@ dsi: Depends
 downloads:
   RetroGameFan YSMenu Fork 7.06:
     url: https://gbatemp.net/download/35737/download
-  No-Timebomb R4i-SDHC 1.85b Kernel:
-    url: http://flashcard-archive.ds-homebrew.com/r4i-sdhc.com/old/r4i-sdhc.com_DEMON_1.85b-notimebomb.zip
+  R4i-SDHC 1.87b Kernel:
+    url: https://archive.flashcarts.net/r4i-sdhc.com/r4i-sdhc.com_DEMON_1.87b.zip
 images:
 - url: /assets/images/cards/r4i-sdhc-com/front-rts.png
 - url: /assets/images/cards/r4i-sdhc-com/front-b9s.png
@@ -24,8 +24,16 @@ images:
 website: http://r4i-sdhc.com
 ---
 
-This family of flashcarts are DSTTi-based clones that ship with a timebomb in the stock kernel. This timebomb doesn't cause any permanent damage - it simply stops the kernel from booting until the date is set back. It can be bypassed by using YSMenu or the no-timebomb version of the stock kernel. YSMenu is recommended since the stock kernel has issues with cheats, and doesn't have folder support for file management.
+This family of flashcarts are DSTTi-based clones. These are commonly known as "Timebomb" carts because their stock kernel used to stop booting after a certain date. This timebomb was removed in The 1.87b kernel by the manufacturer.
+
+This cart like many other DSTTi-based clones is also capable of running YSMenu. YSMenu is recommended since the stock kernel has issues with cheats, and doesn't have proper folder support for file management, however it is still useful for running ROM hacks and translation patched ROMs which YSMenu is generally not capable of and features a Real-Time-Save (RTS) feature on some supported models.
 
 There are a number of flashcarts by r4i-sdhc.com, not every one of them is compatible with the latest DSi/3DS firmware. The R4i 3DS B9S is pre-flashed with ntrboot, if you want to use it like a normal DS flashcart, you will have to flash it back to the normal DS firmware. 
 
 {% include kernels/ysmenu-dstt.md timebomb="true" %}
+
+### Setup Instructions (R4i-SDHC 1.87b Kernel)
+1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
+1. Download the R4i-SDHC 1.87b Kernel
+1. Extract the R4i-SDHC 1.87b Kernel .zip file to your SD card root.
+1. Create a `Games` folder and place any `.nds` game ROMs you'd like to play into that folder or sub-folder.

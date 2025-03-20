@@ -23,7 +23,7 @@ cheats:
 - kernel: "r4dspro.com v1.50: SD:/_system_/cheat.dat"
 ---
 
-This flashcart will use BL2CK OS as it is Acekard 2 based. It will not use AKAIO. This flashcart is currently being sold on AliExpress without a label.
+This flashcart supports BL2CK OS as it is Acekard 2 based. It is not compatible with AKAIO. This flashcart is currently being sold on AliExpress without a label.
 Sleep mode is not functional on this cart and multi-block DLDI does not work correctly and can cause filesystem corruption. The included BL2CK OS download has been modified to use single-block DLDI to fix this.
 
 Do not attempt to run YSMenu on this flashcart, doing so will cause it to **brick**!

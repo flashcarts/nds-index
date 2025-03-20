@@ -21,7 +21,7 @@ website: https://web.archive.org/web/20070509051515/http://www.acekard.com/
 
 The Acekard+ was made to be an improved version of the [original Acekard](/cards/acekard). Instead of being locked down to using Acekard's proprietary file system (AKFS) like the original Acekard, the Acekard+ supported FAT file systems as well. 
 
-The Acekard+ will use a forked version of AKMenu4 backported from the Acekard R.P.G, see the instructions below on how to set it up.
+The Acekard+ uses a forked version of AKMenu4 backported from the Acekard R.P.G, see the instructions below on how to set it up.
 
 ### Setup Instructions (AKMenu4)
 1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)

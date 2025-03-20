@@ -12,8 +12,8 @@ dsi: Latest firmware
 downloads:
   RetroGameFan YSMenu Fork 7.06:
     url: https://gbatemp.net/download/35737/download
-  No-Timebomb R4i-SDHC 1.85b Kernel:
-    url: http://flashcard-archive.ds-homebrew.com/r4i-sdhc.com/old/r4i-sdhc.com_DEMON_1.85b-notimebomb.zip
+  R4iSDHC 4.3 Kernel:
+    url: https://archive.flashcarts.net/r4isdhc.com/r4isdhc.com_2014-and-above_DEMON_4.3.zip
 images:
 - url: /assets/images/cards/r4isdhc-com/timebomb/front.jpg
 - url: /assets/images/cards/r4isdhc-com/timebomb/back.jpg
@@ -24,11 +24,19 @@ images:
 website: https://web.archive.org/web/20201001180537/http://www.r4isdhc.com/
 ---
 
-This flashcart is a DSTTi-based clone that ships with a timebomb in the stock kernel. This timebomb doesn't cause any permanent damage - it simply stops the kernel from booting until the date is set back. It can be bypassed by using YSMenu or the no-timebomb version of the stock kernel. YSMenu is recommended since the stock kernel has issues with cheats, and doesn't have folder support for file management.
+This family of flashcarts are DSTTi-based clones. These are commonly known as "Timebomb" carts because their stock kernel used to stop booting after a certain date. This timebomb was removed in The 4.3 kernel by the manufacturer. 
 
-These carts may be seen named as:
+This cart like many other DSTTi-based clones is also capable of running YSMenu. YSMenu is generally recommended since the stock kernel has issues with displaying cheats, and doesn't have proper folder support for file management, however it is still useful for running ROM hacks and translation patched ROMs which YSMenu is generally not capable of and features Real-Time-Save (RTS).
+
+These carts may be seen named as the below with a year banner of 2014 or newer:
 - Gold Pro
 - RTS Lite
 - Dual Core
+- Purple
+- RTS BLack (2025 version only)
+
+They all use the same PCB and are simply label variations.
+
+Despite the website currently printed on the cart, the current online official website for these carts is [r4i-sdhc.com](http://r4i-sdhc.com/)
 
 {% include kernels/ysmenu-dstt.md timebomb="true" %}
