@@ -422,6 +422,13 @@ html[dir=rtl] {
 	border-radius: 10px;
 }
 
+// FLASHCARTS NET CHANGE
+// override bootstrap carousel caption
+.carousel-caption {
+	bottom: -2rem;
+}
+// END OF FLASHCARTS NET CHANGE
+
 html[dir=lrt] .li-bullet {
 	list-style: disc;
 	margin-left: 1.25em;
