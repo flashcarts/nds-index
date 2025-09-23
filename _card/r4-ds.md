@@ -9,7 +9,7 @@ dsi: false
 3ds: false
 downloads:
   Wood R4 1.62:
-    url: https://flashcard-archive.ds-homebrew.com/R4_original_M3_Simply/R4DS_Wood_R4_1.62.zip
+    url: https://archive.flashcarts.net/R4_original_M3_Simply/R4DS_Wood_R4_1.62.zip
 images:
 - url: /assets/images/cards/original-r4/Front.jpg
 - url: /assets/images/cards/original-r4/Back.jpg

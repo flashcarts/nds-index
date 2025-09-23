@@ -9,7 +9,7 @@ dsi: false
 3ds: false
 downloads:
   r4igold.cc Kernel 2.6:
-    url: https://flashcard-archive.ds-homebrew.com/r4igold.cc/r4igold.cc_Kernel_2.6.zip
+    url: https://archive.flashcarts.net/r4igold.cc/r4igold.cc_Kernel_2.6.zip
 images:
 - url: /assets/images/cards/r4igold-cc/original/front.jpg
 - url: /assets/images/cards/r4igold-cc/original/back.jpg

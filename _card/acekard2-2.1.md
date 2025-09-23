@@ -11,9 +11,9 @@ dsi: false
 3ds: false
 downloads:
   AKAIO 1.9.0:
-    url: https://flashcard-archive.ds-homebrew.com/acekard.com/AceKard_2_2.1/AKAIO_1.9.0-20121129.zip
+    url: https://archive.flashcarts.net/acekard.com/AceKard_2_2.1/AKAIO_1.9.0-20121129.zip
   BL2CK 1.31.0:
-    url: https://flashcard-archive.ds-homebrew.com/BL2CK/BL2CK_1.31.0.zip
+    url: https://archive.flashcarts.net/BL2CK/BL2CK_1.31.0.zip
 images:
 - url: /assets/images/cards/acekard2-1/acekard2-front.jpg
 - url: /assets/images/cards/acekard2-1/acekard2-1-front.jpg

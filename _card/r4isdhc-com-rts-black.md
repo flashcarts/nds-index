@@ -12,7 +12,7 @@ downloads:
   RetroGameFan YSMenu Fork 7.06:
     url: https://gbatemp.net/download/35737/download
   r4isdhc.com RTS black Kernel 3.2:
-    url: https://flashcard-archive.ds-homebrew.com/r4isdhc.com/old/r4isdhc.com_RTS_black_Kernel_3.2.zip
+    url: https://archive.flashcarts.net/r4isdhc.com/old/r4isdhc.com_RTS_black_Kernel_3.2.zip
 images:
 - url: /assets/images/cards/r4isdhc-com/rts-black/front.jpg
 website: https://web.archive.org/web/20130102183011/http://www.r4isdhc.com/

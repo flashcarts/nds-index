@@ -11,7 +11,7 @@ dsi: false
 3ds: false
 downloads:
   SuperCard DSOne-SDHC EvolutionOS SP6:
-    url: https://flashcard-archive.ds-homebrew.com/SuperCard/DSONE_SDHC_DSONEi/SuperCard_DSONE_SDHC_EOS_sp6_20121206.zip
+    url: https://archive.flashcarts.net/SuperCard/DSONE_SDHC_DSONEi/SuperCard_DSONE_SDHC_EOS_sp6_20121206.zip
   RetroGameFan YSMenu Fork 7.06:
     url: https://gbatemp.net/download/35737/download
 images:

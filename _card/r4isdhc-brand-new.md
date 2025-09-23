@@ -30,7 +30,7 @@ These are DEMON DSTTi-based clones. These differ from other DEMON clones by load
     - `Games` folder
     - `TTMenu` folder
     - `TTMenu.dat`
-1. Download [DEMON YSMenu flashcard-bootstrap](https://flashcard-archive.ds-homebrew.com/YSMenu/DEMON_common/R4.dat).
+1. Download [DEMON YSMenu flashcard-bootstrap](https://archive.flashcarts.net/YSMenu/DEMON_common/R4.dat).
 1. Download [R4i SDHC Brand New V2.0 boot file](https://github.com/flashcarts/flashcard-archive/raw/refs/heads/main/archive/r4isdhc.com/old/r4isdhc.com_Upgrade_V1.4_Kernel_2.0/_DS_MENU.DAT).
 1. Copy `R4.dat` to the root of your SD card.
 1. Copy `_DS_MENU.DAT` to the root of your SD card.

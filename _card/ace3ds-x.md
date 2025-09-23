@@ -11,7 +11,7 @@ dsi: Latest firmware
 3ds: Latest firmware
 downloads:
   Ace3DS+ Wood R4 1.62:
-    url: https://flashcard-archive.ds-homebrew.com/Ace3DS+_R4iLS/Ace3DS+_R4iLS_Wood_R4_1.62.zip
+    url: https://archive.flashcarts.net/Ace3DS+_R4iLS/Ace3DS+_R4iLS_Wood_R4_1.62.zip
   AOS for Ace3DSPlus:
     url: http://github.com/flashcarts/AOS/releases/latest/download/AOS_Ace3DSPlus.zip
 images:

@@ -10,7 +10,7 @@ dsi: false
 3ds: false
 downloads:
     Acekard Manager 1.03 with AKMenu 1.1:
-        url: https://flashcard-archive.ds-homebrew.com/acekard.com/AceKard_AceKard+/AKManager103_AKMenu110_MS_ENG.zip
+        url: https://archive.flashcarts.net/acekard.com/AceKard_AceKard+/AKManager103_AKMenu110_MS_ENG.zip
 images:
 - url: /assets/images/cards/acekard/front.jpg
 - url: /assets/images/cards/acekard/back.jpg

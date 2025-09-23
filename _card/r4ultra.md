@@ -10,9 +10,9 @@ dsi: Depends
 3ds: Depends
 downloads:
     R4 Ultra AKAIO 1.8.6a:
-        url: https://flashcard-archive.ds-homebrew.com/r4ultra.com/R4_Ultra_AKAIO_1.8.6a.zip
+        url: https://archive.flashcarts.net/r4ultra.com/R4_Ultra_AKAIO_1.8.6a.zip
     BL2CK 1.31.0:
-        url: https://flashcard-archive.ds-homebrew.com/r4ultra.com/BL2CK_1.31.0.zip
+        url: https://archive.flashcarts.net/r4ultra.com/BL2CK_1.31.0.zip
 images:
 - url: /assets/images/cards/r4ultra-com/r4ultra-front.JPG
 - url: /assets/images/cards/r4ultra-com/r4ultra-back.JPG

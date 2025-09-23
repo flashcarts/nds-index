@@ -9,7 +9,7 @@ dsi: Up to ?
 3ds: Up to ?
 downloads:
     Acekard 3 AKAIO 1.8.7:
-        url: https://flashcard-archive.ds-homebrew.com/acekard.cc/acekard.cc_Acekard_3_AKAIO_1.8.7.zip
+        url: https://archive.flashcarts.net/acekard.cc/acekard.cc_Acekard_3_AKAIO_1.8.7.zip
 images:
 - url: /assets/images/cards/acekard3/front.jpg
 website: https://web.archive.org/web/20130827110542/http://www.acekard.cc/

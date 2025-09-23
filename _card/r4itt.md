@@ -9,7 +9,7 @@ dsi: Up to 1.4.5
 3ds: Up to ?
 downloads:
   BL2CK 1.31.0:
-    url: https://flashcard-archive.ds-homebrew.com/BL2CK/BL2CK_1.31.0.zip
+    url: https://archive.flashcarts.net/BL2CK/BL2CK_1.31.0.zip
 images:
 - url: /assets/images/cards/r4itt/front.jpg
 - url: /assets/images/cards/r4itt/back.jpg

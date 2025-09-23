@@ -10,7 +10,7 @@ dsi: false
 3ds: false
 downloads:
   AKMenu4 for AK+:
-    url: https://flashcard-archive.ds-homebrew.com/acekard.com/AceKard_AceKard+/AceKard_akMenu_4.07.zip
+    url: https://archive.flashcarts.net/acekard.com/AceKard_AceKard+/AceKard_akMenu_4.07.zip
 images:
 - url: /assets/images/cards/acekard-plus/front.jpg
 - url: /assets/images/cards/acekard-plus/back.jpg

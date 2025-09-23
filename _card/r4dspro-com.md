@@ -10,9 +10,9 @@ dsi: false
 3ds: false
 downloads:
   BL2CK 1.31.0 (r4dspro.com):
-    url: https://flashcard-archive.ds-homebrew.com/BL2CK/BL2CK_1.31.0_r4dspro.com.zip
+    url: https://archive.flashcarts.net/BL2CK/BL2CK_1.31.0_r4dspro.com.zip
   r4dspro.com Kernel 1.50:
-    url: https://flashcard-archive.ds-homebrew.com/r4dspro.com/old/r4dspro.com_Kernel_1.50.zip
+    url: https://archive.flashcarts.net/r4dspro.com/old/r4dspro.com_Kernel_1.50.zip
 images:
 -  url: /assets/images/cards/r4dspro-com/nolabel_back.jpg
 -  url: /assets/images/cards/r4dspro-com/nolabel_front.jpg

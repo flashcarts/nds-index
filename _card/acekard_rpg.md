@@ -9,7 +9,7 @@ dsi: false
 3ds: false
 downloads:
     WoodRPG 1.62:
-        url: https://flashcard-archive.ds-homebrew.com/acekard.com/AceKard_RPG/Acekard_RPG_Wood_RPG_1.62.zip
+        url: https://archive.flashcarts.net/acekard.com/AceKard_RPG/Acekard_RPG_Wood_RPG_1.62.zip
 images:
  - url: /assets/images/cards/acekard-rpg/front.jpg
  - url: /assets/images/cards/acekard-rpg/back.png

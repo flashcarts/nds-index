@@ -10,7 +10,7 @@ dsi: Up to ?
 3ds: Up to ?
 downloads:
   BL2CK 1.31.0 (Amaze3DS):
-    url: https://flashcard-archive.ds-homebrew.com/BL2CK/BL2CK_1.31.0_Amaze3DS.zip
+    url: https://archive.flashcarts.net/BL2CK/BL2CK_1.31.0_Amaze3DS.zip
 images:
 - url: /assets/images/cards/r4igold-cc/wood/front.jpeg
 - url: /assets/images/cards/r4igold-cc/wood/front_pcb.jpg

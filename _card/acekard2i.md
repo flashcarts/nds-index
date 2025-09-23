@@ -11,17 +11,17 @@ dsi: Up to 1.4.4
 3ds: Up to 4.3.0
 downloads:
   AKAIO 1.9.0:
-    url: https://flashcard-archive.ds-homebrew.com/acekard.com/AceKard_2i/AKAIO_1.9.0-20121129.zip
+    url: https://archive.flashcarts.net/acekard.com/AceKard_2i/AKAIO_1.9.0-20121129.zip
   BL2CK 1.31.0:
-    url: https://flashcard-archive.ds-homebrew.com/BL2CK/BL2CK_1.31.0.zip
+    url: https://archive.flashcarts.net/BL2CK/BL2CK_1.31.0.zip
   Acekard 2i FWUpdate:
-    url: https://flashcard-archive.ds-homebrew.com/acekard.com/AceKard_2i/Acekard_2i_FWUpdate/
+    url: https://archive.flashcarts.net/acekard.com/AceKard_2i/Acekard_2i_FWUpdate/
 images:
 - url: /assets/images/cards/acekard2i/front.jpeg
 - url: /assets/images/cards/acekard2i/back.jpeg
 - url: /assets/images/cards/acekard2i/pcb-back.jpeg
 - url: /assets/images/cards/acekard2i/pcb-front.jpeg
-- url: https://flashcard-archive.ds-homebrew.com/acekard.com/AceKard_2i/acekard2i.jpg
+- url: https://archive.flashcarts.net/acekard.com/AceKard_2i/acekard2i.jpg
   description: Alternate label design
 website: https://web.archive.org/web/20140205183900/http://www.acekard.com/
 ---
