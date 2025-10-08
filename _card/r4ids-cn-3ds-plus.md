@@ -35,7 +35,7 @@ The R4i Gold Plus is based on the older 3DS version and runs the same Wood R4 ke
 The last batch of the R4i Gold Plus carts had a hardware fault that rendered them unable to load games with Wood R4 1.64. If you have one of these carts the alternative is to use BL2CK OS, although you won't get the additional features from Wood R4 1.64.
 
 ### Setup Instructions (Wood R4 1.64)
-1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
+1. [Format the SD card you are using to FAT32](https://dsi.cfw.guide/sd-card-setup.html)
 1. Download the Wood R4 1.64 Kernel
 1. Extract the Wood R4 1.64 Kernel .zip file to your SD card root.
 1. Place any `.nds` game ROMs you'd like to play into a folder of your choice which isn't the `__rpg`_folder.

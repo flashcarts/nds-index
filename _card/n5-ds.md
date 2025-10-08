@@ -24,7 +24,7 @@ This flashcart is a clone of the OG R4SDHC and thus has the same 4GB SDHC card l
 
 ### Setup Instructions (YSMenu)
 
-1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
+1. [Format the SD card you are using to FAT32](https://dsi.cfw.guide/sd-card-setup.html)
 1. Download RetroGameFan YSMenu Fork 7.06
 1. Extract the YSMenu .7z you downloaded using 7-zip or similar, then go into the `R4-Clone YSMenu` folder.
 1. From this folder, copy the following files/folders to your SD card root.

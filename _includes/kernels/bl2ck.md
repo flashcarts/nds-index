@@ -9,7 +9,7 @@
 {% endif %}
 
 ### Setup Instructions (BL2CK)
-1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
+1. [Format the SD card you are using to FAT32](https://dsi.cfw.guide/sd-card-setup.html)
 1. Download {{ bl2ck_ver }}
 1. Extract the {{ bl2ck_ver }} .zip file to your SD card root.
 1. Place any `.nds` game ROMs you'd like to play into a folder of your choice which isn't the `__rpg` folder.

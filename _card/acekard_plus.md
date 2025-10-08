@@ -24,7 +24,7 @@ The Acekard+ was made to be an improved version of the [original Acekard](/cards
 The Acekard+ uses a forked version of AKMenu4 backported from the Acekard R.P.G, see the instructions below on how to set it up.
 
 ### Setup Instructions (AKMenu4)
-1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
+1. [Format the SD card you are using to FAT32](https://dsi.cfw.guide/sd-card-setup.html)
 1. Download AKMenu4
 1. Extract the AKMenu4 .zip file to your SD card root.
 1. Place any `.nds` game ROMs you'd like to play into a folder of your choice which isn't the `system` folder.

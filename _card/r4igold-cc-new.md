@@ -20,7 +20,7 @@ website: http://web.archive.org/web/20190621024221/http://r4igold.cc/
 This flashcart is an [original r4igold.cc](/card/r4igold-cc-original.html) cart with a different label on it. It uses the exact same kernel.
 
 ### Setup Instructions (r4igold.cc 2.6)
-1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
+1. [Format the SD card you are using to FAT32](https://dsi.cfw.guide/sd-card-setup.html)
 1. Download the r4igold.cc kernel
 1. Extract the r4igold.cc kernel .zip file to your SD card root.
 1. Place any `.nds` game ROMs you'd like to play into a folder of your choice which isn't the `_SYSTEM_` or `MOONSHL` folder.

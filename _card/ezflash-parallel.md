@@ -29,7 +29,7 @@ Do note that the `Aging Card NTR` software will still cause a **brick** on this 
 
 
 ### Setup Instructions (EZ-Flash Parallel Kernel 1.05/1.06)
-1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
+1. [Format the SD card you are using to FAT32](https://dsi.cfw.guide/sd-card-setup.html)
 1. Download the EZ-Flash Parallel Kernel 1.05/1.06
 1. Extract the EZ-Flash Parallel Kernel 1.05/1.06 .zip file to your SD card root.
 1. Place any `.nds` game ROMs you'd like to play into a folder of your choice which isn't the `__rpg`_folder.

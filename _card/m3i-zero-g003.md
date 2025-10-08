@@ -23,7 +23,7 @@ However, TwiLight Menu ++ does support this cart and so it is recommended to use
 While this cart does supports SDHC cards, Sakura/TouchPod has issues with cards that are 64GB or larger. The nds loader will simply refuse to load games, or load the game but crash/freeze soon after.
 
 ### Setup Instructions (M3 Sakura)
-1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
+1. [Format the SD card you are using to FAT32](https://dsi.cfw.guide/sd-card-setup.html)
 1. Download M3DS Sakura 1.49a
 1. Extract the M3DS Sakura 1.49a .zip file to your SD card root.
 1. Place any `.nds` game ROMs you'd like to play into a folder of your choice which isn't the `SYSTEM` folder.

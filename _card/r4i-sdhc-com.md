@@ -33,7 +33,7 @@ There are a number of flashcarts by r4i-sdhc.com, not every one of them is compa
 {% include kernels/ysmenu-dstt.md timebomb="true" %}
 
 ### Setup Instructions (R4i-SDHC 1.87b Kernel)
-1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
+1. [Format the SD card you are using to FAT32](https://dsi.cfw.guide/sd-card-setup.html)
 1. Download the R4i-SDHC 1.87b Kernel
 1. Extract the R4i-SDHC 1.87b Kernel .zip file to your SD card root.
 1. Create a `Games` folder and place any `.nds` game ROMs you'd like to play into that folder or sub-folder.

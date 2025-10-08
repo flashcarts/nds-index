@@ -27,7 +27,7 @@ The SuperCard DSTWO is a flashcart that contains extra hardware (A MIPS-based In
 The DSTWO Plus is based on the DSTWO and runs on the same version of EvolutionOS but has support for the 3DS.
 
 ### Setup Instructions (EvolutionOS V1.14)
-1. [Format the SD card you are using to FAT32](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
+1. [Format the SD card you are using to FAT32](https://dsi.cfw.guide/sd-card-setup.html)
 1. Download the EvolutionOS kernel
 1. Extract the EvolutionOS kernel .zip file to your SD card root.
 1. Place any `.nds` game ROMs you'd like to play into a folder of your choice which isn't the `_dstwo` folder.
