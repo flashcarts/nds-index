@@ -422,12 +422,18 @@ html[dir=rtl] {
 	border-radius: 10px;
 }
 
-// FLASHCARTS NET CHANGE
 // override bootstrap carousel caption
 .carousel-caption {
 	bottom: -2rem;
 }
-// END OF FLASHCARTS NET CHANGE
+
+// override card text colours
+.card-title, .card-header{
+	color: colours.$header-color;
+}
+.card-text {
+	color: colours.$main-color;
+}
 
 html[dir=lrt] .li-bullet {
 	list-style: disc;
