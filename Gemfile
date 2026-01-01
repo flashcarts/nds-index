@@ -25,3 +25,5 @@ gem "tzinfo-data", platforms: :windows
 gem "wdm", "~> 0.2.0", platforms: :windows
 
 gem "webrick", "~> 1.9", ">= 1.9.1"
+
+gem "logger", '~> 1.7'
