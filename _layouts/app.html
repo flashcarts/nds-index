@@ -144,7 +144,9 @@ layout: compress
 												<div class="carousel-inner">
 													{% for img in page.images %}
 														<div class="carousel-item mt-2 mb-2 {% if forloop.first %}active{% endif %}">
-															<img src="{{ img.url }}" class="d-block mx-auto app-image" alt="{{ img.description }}">
+															<a href="{{ img.url }}" target="_blank" rel="noopener">
+																<img src="{{ img.url }}" class="d-block mx-auto app-image" alt="{{ img.description | escape }}">
+															</a>
 															<div class="carousel-caption d-none d-md-block">
 																<h5 class="carousel-label">{{ img.description }}</h5>
 															</div>

@@ -17,6 +17,8 @@ images:
 - url: /assets/images/cards/r4iplat-com/back.jpg
 - url: /assets/images/cards/r4iplat-com/pcb_front.jpg
 - url: /assets/images/cards/r4iplat-com/pcb_back.jpg
+- url: /assets/images/cards/r4iplat-com/boxfront.jpg
+- url: /assets/images/cards/r4iplat-com/boxback.jpg
 cheats:
 - kernel: "BL2CK 1.31.0: SD:/_rpg/cheats/usrcheat.dat"
 - kernel: "r4iplat.com 1.34: SD:/_system_/cheat.dat"

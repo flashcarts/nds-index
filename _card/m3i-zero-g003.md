@@ -13,6 +13,12 @@ downloads:
     url: https://archive.flashcarts.net/m3adapter.com/m3adapter.com_GMP-Z003_Sakura_1.49a.zip
 images:
 - url: /assets/images/cards/m3i-zero-g003/front.jpg
+- url: /assets/images/cards/m3i-zero-g003/back.jpg
+- url: /assets/images/cards/m3i-zero-g003/boardfront.jpg
+- url: /assets/images/cards/m3i-zero-g003/boardback.jpg
+- url: /assets/images/cards/m3i-zero-g003/boxfront.jpg
+- url: /assets/images/cards/m3i-zero-g003/boxback.jpg
+- url: /assets/images/cards/m3i-zero-g003/insidebox.jpg
 website: https://web.archive.org/web/20140106055622/http://m3adapter.com/
 ---
 

@@ -21,6 +21,9 @@ images:
 - url: /assets/images/cards/dsone-sdhc/Back.jpg
 - url: /assets/images/cards/dsone-sdhc/PCB_Back.jpg
 - url: /assets/images/cards/dsone-sdhc/PCB_Front.jpg
+- url: /assets/images/cards/dsone-sdhc/boxfront.jpg
+- url: /assets/images/cards/dsone-sdhc/boxback.jpg
+- url: /assets/images/cards/dsone-sdhc/boxinside.jpg
 website: http://eng.supercard.sc/manual/dsonei/
 ---
 
