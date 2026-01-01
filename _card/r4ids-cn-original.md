@@ -1,9 +1,6 @@
 ---
 title: R4i Gold (Non-3DS)
 creator: r4ids.cn
-description:
-categories:
-- wood
 sdhc: true
 dsi: Up to ?
 3ds: false
@@ -12,8 +9,6 @@ downloads:
     url: https://archive.flashcarts.net/r4ids.cn/r4ids.cn_non-3DS_Wood_R4_1.54.zip
 images:
 - url: /assets/images/cards/r4ids-original/front.jpg
-cheats:
-- kernel: "Wood R4 1.54: SD:/__rpg/cheats/usrcheat.dat"
 website: http://r4ids.cn/
 ---
 

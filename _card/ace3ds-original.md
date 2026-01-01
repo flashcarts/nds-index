@@ -1,11 +1,6 @@
 ---
 title: Ace3DS
 creator: Ace3DS
-description:
-categories:
-- ace3ds
-- dstt
-- ysmenu
 sdhc: true
 dsi: Up to 1.4.4
 3ds: Up to 4.0.0

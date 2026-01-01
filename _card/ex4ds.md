@@ -1,10 +1,6 @@
 ---
 title: EX4DS
 creator: ex4ds.com
-description:
-categories:
-- aos
-- ace_wood
 sdhc: true
 dsi: true
 3ds: true

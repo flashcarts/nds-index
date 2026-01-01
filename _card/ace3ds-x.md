@@ -1,11 +1,6 @@
 ---
 title: Ace3DS X
 creator: Ace3DS
-description:
-categories:
-- ace3ds
-- ace_wood
-- aos
 sdhc: true
 dsi: Latest firmware
 3ds: Latest firmware

@@ -1,10 +1,6 @@
 ---
 title: Original R4SDHC
 creator: r4sdhc.com
-description:
-categories:
-- r4
-- ysmenu
 sdhc: true
 dsi: false
 3ds: false

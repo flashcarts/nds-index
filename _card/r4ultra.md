@@ -1,10 +1,6 @@
 ---
 title: R4 Ultra / R4i Ultra
 creator: R4 Ultra
-description: 
-categories:
-- akaio
-- bl2ck
 sdhc: true
 dsi: Depends
 3ds: Depends

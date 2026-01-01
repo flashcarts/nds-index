@@ -1,10 +1,6 @@
 ---
 title: R4i SDHC 1.4V
 creator: r4i-sdhc.com.au
-description:
-categories:
-- dstt
-- ysmenu
 sdhc: true
 dsi: Up to 1.4
 3ds: Up to ?

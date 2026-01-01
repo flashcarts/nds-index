@@ -1,11 +1,6 @@
 ---
 title: Gateway Blue
 creator: Gateway
-description:
-categories:
-- ace_wood
-- gateway
-- aos
 sdhc: true
 dsi: Latest firmware
 3ds: Latest firmware

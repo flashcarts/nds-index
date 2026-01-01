@@ -1,10 +1,6 @@
 ---
 title: r4i3d.com Original
 creator: r4i3d.com
-description:
-categories:
-- dstt
-- ysmenu
 sdhc: true
 dsi: false
 3ds: false

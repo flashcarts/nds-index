@@ -1,9 +1,6 @@
 ---
 title: R4 DS
 creator: R4 Team
-description:
-categories:
-- r4
 sdhc: false
 dsi: false
 3ds: false

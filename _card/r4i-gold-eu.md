@@ -1,11 +1,6 @@
 ---
 title: R4i Gold 3DS EU
 creator: R4i-Gold.EU
-description:
-categories:
-- dstt
-- timebomb
-- ysmenu
 sdhc: true
 dsi: true
 3ds: Up to v10.2.0

@@ -1,10 +1,6 @@
 ---
 title: EZ-Flash Parallel
 creator: ezflash.cn
-description:
-categories:
-- ezflash
-- wood
 sdhc: true
 dsi: true
 3ds: true

@@ -1,11 +1,6 @@
 ---
 title: DSOnei
 creator: SuperCard
-description:
-categories:
-- supercard
-- eos
-- ysmenu
 sdhc: true
 dsi: true
 3ds: false

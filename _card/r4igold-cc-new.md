@@ -1,9 +1,6 @@
 ---
 title: 'r4igold.cc "New"'
 creator: r4igold.cc
-description:
-categories:
-- galaxy_eagle
 sdhc: true
 dsi: false
 3ds: false
@@ -13,8 +10,6 @@ downloads:
 images:
 - url: /assets/images/cards/r4igold-cc/original/front_new.jpg
 - url: /assets/images/cards/r4igold-cc/original/back.jpg
-cheats:
-- kernel: "r4igold.cc 2.6: SD:/_system_/cheat.dat"
 website: http://web.archive.org/web/20190621024221/http://r4igold.cc/
 ---
 This flashcart is an [original r4igold.cc](/card/r4igold-cc-original.html) cart with a different label on it. It uses the exact same kernel.

@@ -1,11 +1,6 @@
 ---
 title: R4i SDHC Brand New V2.0
 creator: r4isdhc.com
-description:
-categories:
-- dstt
-- timebomb
-- ysmenu
 sdhc: true
 dsi: up to?
 3ds: up to?

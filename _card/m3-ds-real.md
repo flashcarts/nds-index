@@ -1,11 +1,6 @@
 ---
 title: M3 DS Real and M3i Zero (Non GMP-Z003)
 creator: M3 Adapter
-description:
-categories:
-- m3
-- sakura
-- ysmenu
 sdhc: true
 dsi: No
 3ds: No

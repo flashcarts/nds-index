@@ -1,10 +1,6 @@
 ---
 title: DSTT Advance
 creator: DSTT Advance
-description:
-categories:
-- dstt
-- ysmenu
 sdhc: true
 dsi: true
 3ds: false

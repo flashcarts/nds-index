@@ -1,10 +1,6 @@
 ---
 title: DSTT
 creator: DSTT Team
-description:
-categories:
-- dstt
-- ysmenu
 sdhc: true
 dsi: false
 3ds: false

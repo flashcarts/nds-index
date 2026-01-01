@@ -1,11 +1,6 @@
 ---
 title: Acekard 2i
 creator: Acekard
-description:
-categories:
-- acekard
-- bl2ck
-- akaio
 sdhc: true
 dsi: Up to 1.4.4
 3ds: Up to 4.3.0

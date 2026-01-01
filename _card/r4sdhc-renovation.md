@@ -1,11 +1,6 @@
 ---
 title: R4 SDHC Renovation V2.10T/V2.20T
 creator: r4sdhc.com
-description:
-categories:
-- dstt
-- timebomb
-- ysmenu
 sdhc: true
 dsi: up to?
 3ds: up to?

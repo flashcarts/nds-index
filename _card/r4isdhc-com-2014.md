@@ -1,11 +1,6 @@
 ---
 title: r4isdhc.com 2014+
 creator: r4isdhc.com
-description:
-categories:
-- dstt
-- timebomb
-- ysmenu
 sdhc: true
 dsi: Latest firmware
 3ds: Latest firmware

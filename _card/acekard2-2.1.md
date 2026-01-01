@@ -1,11 +1,6 @@
 ---
 title: Acekard 2/2.1
 creator: Acekard
-description:
-categories:
-- acekard
-- bl2ck
-- akaio
 sdhc: true
 dsi: false
 3ds: false

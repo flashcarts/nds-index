@@ -1,9 +1,6 @@
 ---
 title: Acekard 3
 creator: acekard.cc
-description:
-categories:
-- akaio
 sdhc: true
 dsi: Up to ?
 3ds: Up to ?

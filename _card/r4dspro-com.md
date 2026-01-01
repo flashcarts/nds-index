@@ -1,10 +1,6 @@
 ---
 title: R4DS Pro
 creator: Unknown
-description:
-categories:
-- bl2ck
-- r4dspro
 sdhc: true
 dsi: false
 3ds: false
@@ -18,9 +14,6 @@ images:
 -  url: /assets/images/cards/r4dspro-com/nolabel_front.jpg
 -  url: /assets/images/cards/r4dspro-com/pcb_front.jpg
 -  url: /assets/images/cards/r4dspro-com/pcb_back.jpg
-cheats:
-- kernel: "BL2CK 1.31.0: SD:/_rpg/cheats/usrcheat.dat"
-- kernel: "r4dspro.com v1.50: SD:/_system_/cheat.dat"
 ---
 
 This flashcart supports BL2CK OS as it is Acekard 2 based. It is not compatible with AKAIO. This flashcart is currently being sold on AliExpress without a label.

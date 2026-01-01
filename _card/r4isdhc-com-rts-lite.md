@@ -1,10 +1,6 @@
 ---
 title: r4isdhc.com RTS Lite (No Year Number)
 creator: r4isdhc.com
-description:
-categories:
-- ysmenu
-- dstt
 sdhc: true
 dsi: No
 3ds: No

@@ -1,11 +1,6 @@
 ---
 title: r4isdhc.hk 2020+ Star Year
 creator: r4isdhc.hk
-description:
-categories:
-- r4ils
-- ace_wood
-- aos
 sdhc: true
 dsi: Latest firmware
 3ds: Latest firmware

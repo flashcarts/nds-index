@@ -1,11 +1,6 @@
 ---
 title: r4i-sdhc.com carts
 creator: r4i-sdhc.com
-description:
-categories:
-- dstt
-- timebomb
-- ysmenu
 sdhc: true
 dsi: Depends
 3ds: Depends

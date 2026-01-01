@@ -1,10 +1,6 @@
 ---
 title: M3i Zero (GMP-Z003)
 creator: M3 Adapter
-description:
-categories:
-- m3
-- sakura
 sdhc: true
 dsi: Latest firmware
 3ds: Up to ?

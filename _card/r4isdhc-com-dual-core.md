@@ -1,9 +1,6 @@
 ---
 title: r4isdhc.com Dual Core (No Year Number)
 creator: r4isdhc.com
-description:
-categories:
-- bl2ck
 sdhc: true
 dsi: Up to ?
 3ds: Up to ?

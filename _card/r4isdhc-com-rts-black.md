@@ -1,10 +1,6 @@
 ---
 title: r4isdhc.com RTS Black
 creator: r4isdhc.com
-description:
-categories:
-- ysmenu
-- m3
 sdhc: true
 dsi: No
 3ds: No

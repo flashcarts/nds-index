@@ -1,11 +1,6 @@
 ---
 title: R4i Gold 3DS V1.4.X
 creator: R4i-Gold.COM
-description:
-categories:
-- dstt
-- timebomb
-- ysmenu
 sdhc: true
 dsi: true
 3ds: Up to ?

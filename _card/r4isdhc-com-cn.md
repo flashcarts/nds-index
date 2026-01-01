@@ -1,11 +1,6 @@
 ---
 title: r4isdhc.com.cn carts
 creator: r4isdhc.com.cn
-description:
-categories:
-- r4ils
-- ace_wood
-- aos
 sdhc: true
 dsi: Latest firmware
 3ds: Latest firmware

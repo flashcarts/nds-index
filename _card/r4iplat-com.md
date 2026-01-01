@@ -1,9 +1,6 @@
 ---
 title: R4i Platinum
 creator: r4iplat.com
-description:
-categories:
-- bl2ck
 sdhc: true
 dsi: Up to ?
 3ds: false
@@ -19,9 +16,6 @@ images:
 - url: /assets/images/cards/r4iplat-com/pcb_back.jpg
 - url: /assets/images/cards/r4iplat-com/boxfront.jpg
 - url: /assets/images/cards/r4iplat-com/boxback.jpg
-cheats:
-- kernel: "BL2CK 1.31.0: SD:/_rpg/cheats/usrcheat.dat"
-- kernel: "r4iplat.com 1.34: SD:/_system_/cheat.dat"
 website: https://web.archive.org/web/20120111192806/https://www.r4iplat.com/
 ---
 

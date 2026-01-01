@@ -1,10 +1,6 @@
 ---
 title: Amaze3DS
 creator: amaze3ds.com
-description:
-categories:
-- amaze3ds
-- bl2ck
 sdhc: true
 dsi: Up to ?
 3ds: Up to ?
@@ -13,8 +9,6 @@ downloads:
     url: https://archive.flashcarts.net/BL2CK/BL2CK_1.31.0_Amaze3DS.zip
 images:
 - url: /assets/images/cards/amaze3ds/front.JPG
-cheats:
-- kernel: "BL2CK 1.31.0: SD:/_rpg/usrcheat.dat"
 website: https://web.archive.org/web/20131018071752/http://www.amaze3ds.com/
 ---
 

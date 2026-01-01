@@ -1,11 +1,6 @@
 ---
 title: DSOne SDHC
 creator: SuperCard
-description:
-categories:
-- supercard
-- eos
-- ysmenu
 sdhc: true
 dsi: false
 3ds: false

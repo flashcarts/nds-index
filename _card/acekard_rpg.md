@@ -1,9 +1,6 @@
 ---
 title: Acekard R.P.G.
 creator: Acekard
-description:
-categories:
-- acekard
 sdhc: true
 dsi: false
 3ds: false

@@ -1,9 +1,6 @@
 ---
 title: r4igold.cc Wood
 creator: r4igold.cc
-description:
-categories:
-- amaze3ds
 sdhc: true
 dsi: Up to ?
 3ds: Up to ?
@@ -14,8 +11,6 @@ images:
 - url: /assets/images/cards/r4igold-cc/wood/front.jpeg
 - url: /assets/images/cards/r4igold-cc/wood/front_pcb.jpg
 - url: /assets/images/cards/r4igold-cc/wood/back_pcb.jpg
-cheats:
-- kernel: "r4igold.cc Wood 2.5: SD:/_system_/usrcheat.dat"
 website: http://web.archive.org/web/20190621024221/http://r4igold.cc/
 ---
 This flashcart is an Amaze3DS clone by `r4igold.cc`.

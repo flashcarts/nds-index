@@ -1,10 +1,6 @@
 ---
 title: R4i Gold 3DS / R4i Gold Plus
 creator: r4ids.cn
-description:
-categories:
-- bl2ck
-- wood
 sdhc: true
 dsi: true
 3ds: true
@@ -22,9 +18,6 @@ images:
 - url: /assets/images/cards/r4ids-3ds-plus/pcb_back.jpg
 - url: /assets/images/cards/r4ids-3ds-plus/box_front.jpg
 - url: /assets/images/cards/r4ids-3ds-plus/box_back.jpg
-cheats:
-- kernel: "Wood R4 1.64: SD:/__rpg/cheats/usrcheat.dat"
-- kernel: "BL2CK 1.31.0: SD:/__rpg/cheats/usrcheat.dat"
 website: http://r4ids.cn/
 ---
 

@@ -1,11 +1,6 @@
 ---
 title: N5 DS
 creator: dsn5.com
-description:
-categories:
-- n5
-- r4
-- ysmenu
 sdhc: true
 dsi: false
 3ds: false

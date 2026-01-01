@@ -1,9 +1,6 @@
 ---
 title: N-Card
 creator: dsgba.com
-description:
-categories:
-- nand
 sdhc: false
 dsi: false
 3ds: false

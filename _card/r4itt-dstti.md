@@ -1,10 +1,6 @@
 ---
 title: R4iTT (DSTTi)
 creator: r4itt.net
-description:
-categories:
-- dstt
-- ysmenu
 sdhc: true
 dsi: Up to 1.4.4
 3ds: Up to ?

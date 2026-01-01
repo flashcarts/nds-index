@@ -1,10 +1,6 @@
 ---
 title: DSTWO
 creator: SuperCard
-description:
-categories:
-- supercard
-- eos
 sdhc: true
 dsi: Up to ?
 3ds: (DSTWO Plus) Up to ?
@@ -17,8 +13,6 @@ images:
 - url: /assets/images/cards/dstwo/front.jpg
 - url: /assets/images/cards/dstwo/pcb_front.jpg
 - url: /assets/images/cards/dstwo/pcb_back.jpg
-cheats:
-- kernel: "EvolutionOS V1.14: SD:/_dstwo/usrcheat.dat"
 website: http://eng.supercard.sc/manual/dstwo/
 ---
 

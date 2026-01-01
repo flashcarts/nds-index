@@ -1,10 +1,6 @@
 ---
 title: Original Acekard
 creator: Acekard
-description:
-categories:
-- acekard
-- akmenu
 sdhc: false
 dsi: false
 3ds: false

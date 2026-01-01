@@ -1,10 +1,6 @@
 ---
 title: R4i iLL
 creator: NDS iLL
-description:
-categories:
-- dstt
-- ysmenu
 sdhc: true
 dsi: true
 3ds: Up to ?

@@ -1,10 +1,6 @@
 ---
 title: R4 Gold RTS 3DS
 creator: r4i-gold.com
-description:
-categories:
-- dstt
-- ysmenu
 sdhc: true
 dsi: false
 3ds: false

@@ -1,11 +1,7 @@
 ---
 title: Acekard+
 creator: Acekard
-description:
-categories:
-- acekard
-- akmenu
-sdhc: true
+sdhc: false
 dsi: false
 3ds: false
 downloads:
