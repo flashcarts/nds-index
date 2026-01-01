@@ -22,7 +22,7 @@ images:
 website: https://web.archive.org/web/20200310030828/http://www.r4i-gold.eu/
 ---
 
-This flashcart is a clone of the r4isdhc.com 2014+ DSTTi carts. This cart was allegedly manufactured by r4isdhc.com themselves, with this flashcart being intended for a different market. With a modified R4.dat it can be made to run the official R4iMenu v1.87b kernel.
+This flashcart is a clone of the r4i-sdhc.com DSTTi carts. This cart was allegedly manufactured by r4isdhc.com themselves, with this flashcart being intended for a different market. With a modified R4.dat it can be made to run the official R4iMenu v1.87b kernel.
 
 {% include kernels/ysmenu-dstt.md timebomb="true" %}
 

@@ -23,7 +23,7 @@ images:
 website: https://web.archive.org/web/20130805052351/http://www.r4i-gold.com/index.html
 ---
 
-This flashcart is a clone of the r4isdhc.com 2014+ DSTTi carts. This cart was allegedly manufactured by r4isdhc.com themselves, with this flashcart being intended for a different market. The flashcart's URL at some stage in 2014 would redirect to r4isdhc.com. With a modified R4.dat it can be made to run the official R4iMenu v1.87b kernel.
+This flashcart is a clone of the r4i-sdhc.com DSTTi carts. This cart was allegedly manufactured by r4isdhc.com themselves, with this flashcart being intended for a different market. The flashcart's URL at some stage in 2014 would redirect to r4isdhc.com. With a modified R4.dat it can be made to run the official R4iMenu v1.87b kernel.
 
 Some versions of this cart are standard DSTTi clones which can only run YSMenu, this is usually denoted by the PCB having "R4i Gold" on the right hand side of the PCB with no number rather in the center.
 
