@@ -27,4 +27,4 @@ These flashcarts use the EvolutionOS kernel. This is a highly-compatible kernel 
 
 This is similar to the DSOne SDHC but supports the DSi. A USB dongle was included in the box in order to perform firmware updates on the cart.
 
-More detailed information about setup and usage can be found in the [DSOne Manual GitHub](https://github.com/Sanrax/DSOneManual/tree/main)
+More detailed information about setup and usage can be found in the [DSOne SDHC Manual GitHub](https://github.com/Sanrax/DSOneManual/tree/main). The only thing to keep in mind when reading that manual is that the DSOnei does not have self-test mode. As such, the `Further Setup` section does not apply.

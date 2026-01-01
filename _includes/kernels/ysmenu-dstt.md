@@ -11,7 +11,7 @@
 1. Make a copy of `TTMenu.dat` and rename it to `{{ include.ysmenu_altBootFile }}`.
 {% endif %}
 {% if include.timebomb == "true" %}
-1. Download [DEMON YSMenu flashcard-bootstrap](https://archive.flashcarts.net/YSMenu/DEMON_common/R4.dat).
+1. Download [DEMON YSMenu nds-miniboot](https://archive.flashcarts.net/YSMenu/DEMON_common/R4.dat).
 1. Copy `R4.dat` to the root of your SD card.
 {% endif %}
 1. Place any `.nds` game ROMs you'd like to play into the `Games` folder.
