@@ -13,7 +13,7 @@ images:
 website: https://web.archive.org/web/20160220181133/http://www.r4idsn.com/
 ---
 
-The R4iDSN 3D is a R4i Gold 3DS clone and one of the few non-Original R4 carts to get an official port of Wood R4. While this cart runs Wood R4 1.62, it does feature Real-Time-Save (RTS) support.
+The R4iDSN 3D is an Acekard clone and one of the few non-Original R4 carts to get an official port of Wood R4. While this cart runs Wood R4 1.62, it does feature Real-Time-Save (RTS) support.
 
 ### Setup Instructions (Wood R4 1.62)
 1. [Format the SD card you are using to FAT32](https://dsi.cfw.guide/sd-card-setup.html)
