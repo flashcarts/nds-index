@@ -18,5 +18,5 @@ The R4i Gold is an Acekard clone and is an older version of the r4ids.cn carts. 
 1. [Format the SD card you are using to FAT32](https://dsi.cfw.guide/sd-card-setup.html)
 1. Download the Wood R4 1.54 Kernel
 1. Extract the Wood R4 1.54 Kernel .zip file to your SD card root.
-1. Place any `.nds` game ROMs you'd like to play into a folder of your choice which isn't the `__rpg`_folder.
+1. Place any `.nds` game ROMs you'd like to play into a folder of your choice which isn't the `__rpg` folder.
     - (Optional) You may want to create a `Games` folder to store your ROMs in to keep the root of your SD card organised.
