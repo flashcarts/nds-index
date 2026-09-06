@@ -12,6 +12,8 @@ downloads:
 images:
 - url: /assets/images/cards/n5-ds/front.jpg
 - url: /assets/images/cards/n5-ds/back.jpg
+- url: /assets/images/cards/n5-ds/PCB_V2_BACK.png
+- url: /assets/images/cards/n5-ds/PCB_V2_FRONT.png
 website: https://web.archive.org/web/20120603014114/http://www.dsn5.com/
 ---
 
